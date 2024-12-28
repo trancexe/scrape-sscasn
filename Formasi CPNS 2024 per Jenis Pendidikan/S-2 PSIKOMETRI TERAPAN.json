@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "5b31c131-edba-4b57-911d-ed85b76d97ba",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | SEKRETARIAT UTAMA | PUSAT PSIKOLOGI | BIDANG PEMBINAAN KEMAMPUAN PENATAKELOLAAN PSIKOLOGI INTELIJEN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 5,
+    "kode_pend": "7400539",
+    "nama_pend": "S-2 PSIKOMETRI TERAPAN"
+  },
+  {
+    "formasi_id": "8a028487919cdb310191a73a69451759",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN ANTASARI BANJARMASIN",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 3,
+    "kode_pend": "7400539",
+    "nama_pend": "S-2 PSIKOMETRI TERAPAN"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "b84daf48-dcb7-44a2-86b7-d26c5a8cc05e",
+    "ins_nm": "Pemerintah Kab. Pesisir Barat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN PESISIR BARAT | SEKRETARIAT DAERAH PEMERINTAH KAB. PESISIR BARAT | ASISTEN PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT | BAGIAN KESEJAHTERAAN RAKYAT PADA SEKRETARIAT DAERAH",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2228560",
+    "gaji_max": "4132461",
+    "jumlah_ms": 94,
+    "kode_pend": "5119132",
+    "nama_pend": "S-1 TEOLOGI ISLAM"
+  },
+  {
+    "formasi_id": "e77da88b-6a11-4a30-b84c-d439ee8a4865",
+    "ins_nm": "Pemerintah Kab. Purwakarta",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN PURWAKARTA | SEKRETARIAT DAERAH | ASISTEN SEKRETARIS DAERAH BIDANG PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT | BAGIAN KESEJAHTERAAN RAKYAT",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "10171878",
+    "jumlah_ms": 85,
+    "kode_pend": "5119132",
+    "nama_pend": "S-1 TEOLOGI ISLAM"
+  }
+]

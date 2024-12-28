@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "0156c40c-386b-4398-9255-9e21198e4b8b",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Jambi | Fakultas Sains dan Teknologi | Jurusan Teknik Sipil, Kimia dan Lingkungan, Fakultas Sains dan Teknologi | Prodi S1 Teknik Sipil, Fakultas Sains dan Teknologi",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7400285",
+    "nama_pend": "S-2 REKAYASA SUMBER DAYA PENGAIRAN"
+  },
+  {
+    "formasi_id": "7f894844-c3a5-4ac7-8e76-ecf3edccb1f3",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Banjarmasin | Jurusan Teknik Sipil dan Kebumian | D4 Teknik Bangunan Rawa",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7400285",
+    "nama_pend": "S-2 REKAYASA SUMBER DAYA PENGAIRAN"
+  },
+  {
+    "formasi_id": "869917dc-af01-4b92-a28c-9fe26e4878f6",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Samarinda | Jurusan Teknik Sipil | D4 Teknologi Rekayasa Konstruksi Bangunan Air Jurusan Teknik Sipil",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 1,
+    "kode_pend": "7400285",
+    "nama_pend": "S-2 REKAYASA SUMBER DAYA PENGAIRAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7400285",
+    "nama_pend": "S-2 REKAYASA SUMBER DAYA PENGAIRAN"
+  }
+]

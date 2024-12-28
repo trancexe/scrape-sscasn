@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "001b36c5-adbc-41ab-9188-ed64623917a1",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELAAH TEKNIS INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG ANALISIS DAN PRODUKSI INTELIJEN | DIREKTORAT PERENCANAAN DAN PRODUKSI INTELIJEN | SUB DIREKTORAT PERENCANAAN PRODUKSI DAN ANGGARAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 3,
+    "kode_pend": "5193211",
+    "nama_pend": "S-1 MANAJEMEN ADMINISTRASI"
+  },
+  {
+    "formasi_id": "584682cb-4e4b-4b88-baa6-1169cde6ed5f",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELAAH TEKNIS INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG ANALISIS DAN PRODUKSI INTELIJEN | DIREKTORAT PERENCANAAN DAN PRODUKSI INTELIJEN | SUB DIREKTORAT PRODUKSI LUAR NEGERI",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 26,
+    "kode_pend": "5193211",
+    "nama_pend": "S-1 MANAJEMEN ADMINISTRASI"
+  },
+  {
+    "formasi_id": "01255adf-f4ba-4981-8c4b-daf4d460a0a8",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | SEKRETARIAT JENDERAL | PUSAT PERPUSTAKAAN DAN LITERASI PERTANIAN | MUSEUM TANAH DAN PERTANIAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 18,
+    "kode_pend": "5193211",
+    "nama_pend": "S-1 MANAJEMEN ADMINISTRASI"
+  },
+  {
+    "formasi_id": "4a9a46bb-eb66-4aff-8358-edb70142f088",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | BALAI BESAR PELATIHAN PERTANIAN BINUANG",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 3,
+    "kode_pend": "5193211",
+    "nama_pend": "S-1 MANAJEMEN ADMINISTRASI"
+  }
+]

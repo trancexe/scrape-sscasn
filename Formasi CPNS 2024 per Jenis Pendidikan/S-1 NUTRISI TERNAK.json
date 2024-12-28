@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "f2fc5f59-eaf2-4093-9f03-b0685ecebe85",
+    "ins_nm": "Pemerintah Kab. Alor",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGGERAK SWADAYA MASYARAKAT AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Alor | Sekretariat Daerah | Asisten Pemerintahan Dan Kesejahteraan Rakyat | Bagian  Kesejahteraan Rakyat",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3500000",
+    "jumlah_ms": 125,
+    "kode_pend": "5191286",
+    "nama_pend": "S-1 NUTRISI TERNAK"
+  },
+  {
+    "formasi_id": "858f64bc-13eb-441d-9315-6e48f4f1a4c4",
+    "ins_nm": "Pemerintah Kab. Merangin",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "BUPATI MERANGIN | DINAS PETERNAKAN DAN PERKEBUNAN | SEKRETARIAT",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "5373234",
+    "jumlah_ms": 2,
+    "kode_pend": "5191286",
+    "nama_pend": "S-1 NUTRISI TERNAK"
+  },
+  {
+    "formasi_id": "37c7d94a-c91b-44fa-bbf1-552ccec935f7",
+    "ins_nm": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI DKI JAKARTA | DINAS KETAHANAN PANGAN, KELAUTAN DAN PERTANIAN | BIDANG PETERNAKAN DAN KESEHATAN HEWAN DINAS KETAHANAN PANGAN, KELAUTAN DAN PERTANIAN | SUBKELOMPOK PETERNAKAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "7088560",
+    "gaji_max": "21505700",
+    "jumlah_ms": 77,
+    "kode_pend": "5191286",
+    "nama_pend": "S-1 NUTRISI TERNAK"
+  }
+]

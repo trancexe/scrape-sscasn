@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a0282659168528c01916aa779021bef",
+    "ins_nm": "Badan Pengawasan Keuangan dan Pembangunan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "10000000",
+    "gaji_max": "11500000",
+    "jumlah_ms": 920,
+    "kode_pend": "5000361",
+    "nama_pend": "D-IV PEMERINTAHAN"
+  },
+  {
+    "formasi_id": "77c384df-399b-495d-89fb-dedc0fdb49c4",
+    "ins_nm": "Pemerintah Kab. Malinau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MALINAU | DINAS KOMUNIKASI DAN INFORMATIKA | BIDANG INFORMASI DAN KOMUNIKASI DAN STATISTIK",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3203600",
+    "gaji_max": "5261500",
+    "jumlah_ms": 12,
+    "kode_pend": "5000361",
+    "nama_pend": "D-IV PEMERINTAHAN"
+  }
+]

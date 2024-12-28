@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "08c1b1bc-9a56-4c4b-b245-1e25f76ea019",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Perkapalan Negeri Surabaya | Jurusan Teknik Permesinan Kapal",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 11,
+    "kode_pend": "4475197",
+    "nama_pend": "D-III TEKNIK PERMESINAN KAPAL"
+  },
+  {
+    "formasi_id": "2d85cfc5-d696-4f70-a8bf-2451276d0ced",
+    "ins_nm": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH PROVINSI DKI JAKARTA | DINAS PERHUBUNGAN | UNIT PENGELOLA ANGKUTAN PERAIRAN | Satuan Pelaksana Pelayanan (Penata Layanan Operasional)",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "6848720",
+    "gaji_max": "15985900",
+    "jumlah_ms": 7,
+    "kode_pend": "4475197",
+    "nama_pend": "D-III TEKNIK PERMESINAN KAPAL"
+  }
+]

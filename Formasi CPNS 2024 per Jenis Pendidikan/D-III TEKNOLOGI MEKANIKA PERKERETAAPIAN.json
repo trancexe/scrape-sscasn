@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "1d9615e1-524c-4ea2-ad27-f95b44ca357d",
+    "ins_nm": "Kementerian Perhubungan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI PERKERETAAPIAN",
+    "lokasi_nm": "KEMENTERIAN PERHUBUNGAN | DIREKTORAT JENDERAL PERKERETAAPIAN | BALAI TEKNIK PERKERETAAPIAN KELAS I SURABAYA | SEKSI PRASARANA PERKERETAAPIAN",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "5996300",
+    "jumlah_ms": 53,
+    "kode_pend": "4100857",
+    "nama_pend": "D-III TEKNOLOGI MEKANIKA PERKERETAAPIAN"
+  },
+  {
+    "formasi_id": "6f919fc4-ac75-4aa2-a950-a6b917d5a509",
+    "ins_nm": "Kementerian Perhubungan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI PERKERETAAPIAN",
+    "lokasi_nm": "KEMENTERIAN PERHUBUNGAN | DIREKTORAT JENDERAL PERKERETAAPIAN | BALAI PERAWATAN PERKERETAAPIAN | SEKSI PERAWATAN BERKALA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "5996300",
+    "jumlah_ms": 40,
+    "kode_pend": "4100857",
+    "nama_pend": "D-III TEKNOLOGI MEKANIKA PERKERETAAPIAN"
+  },
+  {
+    "formasi_id": "c3e37de7-7fa4-4ef5-9f36-959b8db97772",
+    "ins_nm": "Kementerian Perhubungan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI PERKERETAAPIAN",
+    "lokasi_nm": "KEMENTERIAN PERHUBUNGAN | DIREKTORAT JENDERAL PERKERETAAPIAN | BALAI TEKNIK PERKERETAAPIAN KELAS II PADANG | SEKSI PRASARANA PERKERETAAPIAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "5996300",
+    "jumlah_ms": 9,
+    "kode_pend": "4100857",
+    "nama_pend": "D-III TEKNOLOGI MEKANIKA PERKERETAAPIAN"
+  },
+  {
+    "formasi_id": "6cdfa1d6-75d3-4b6a-812c-49a58af74736",
+    "ins_nm": "Kementerian Perhubungan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "TEKNISI PERKERETAAPIAN",
+    "lokasi_nm": "KEMENTERIAN PERHUBUNGAN | DIREKTORAT JENDERAL PERKERETAAPIAN | BALAI PERAWATAN PERKERETAAPIAN | SEKSI PERAWATAN BERKALA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "5996300",
+    "jumlah_ms": 117,
+    "kode_pend": "4100857",
+    "nama_pend": "D-III TEKNOLOGI MEKANIKA PERKERETAAPIAN"
+  }
+]

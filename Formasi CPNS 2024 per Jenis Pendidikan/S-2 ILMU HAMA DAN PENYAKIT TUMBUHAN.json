@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "7441406c-80df-4fea-9262-73dad26505f1",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Pertanian Negeri Samarinda | Jurusan Pertanian | D4 Teknologi Produksi Tanaman Pangan Jurusan Pertanian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7106040",
+    "nama_pend": "S-2 ILMU HAMA DAN PENYAKIT TUMBUHAN"
+  },
+  {
+    "formasi_id": "cd3bd75d-51f4-4a53-ad19-d8581ab1324a",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | POLITEKNIK PEMBANGUNAN PERTANIAN MEDAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 46,
+    "kode_pend": "7106040",
+    "nama_pend": "S-2 ILMU HAMA DAN PENYAKIT TUMBUHAN"
+  }
+]

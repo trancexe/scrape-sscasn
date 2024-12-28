@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "57a8860b-c3fe-4957-9769-b1c6dd87e85d",
+    "ins_nm": "Kementerian Lingkungan Hidup dan Kehutanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYULUH KEHUTANAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN LINGKUNGAN HIDUP DAN KEHUTANAN | Badan Penyuluhan dan Pengembangan Sumber Daya Manusia | Balai Pelatihan Lingkungan Hidup dan Kehutanan Pematang Siantar | Seksi Sarana dan Evaluasi Pelatihan",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "5000000",
+    "gaji_max": "6500000",
+    "jumlah_ms": 2,
+    "kode_pend": "4480313",
+    "nama_pend": "D-III ILMU BIOLOGI"
+  },
+  {
+    "formasi_id": "6fa25768-7dc3-4291-bc38-068317216610",
+    "ins_nm": "Kementerian Lingkungan Hidup dan Kehutanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYULUH KEHUTANAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN LINGKUNGAN HIDUP DAN KEHUTANAN | Badan Penyuluhan dan Pengembangan Sumber Daya Manusia | Balai Pelatihan Lingkungan Hidup dan Kehutanan Kadipaten | Seksi Sarana dan Evaluasi Pelatihan",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "5000000",
+    "gaji_max": "6500000",
+    "jumlah_ms": 1,
+    "kode_pend": "4480313",
+    "nama_pend": "D-III ILMU BIOLOGI"
+  },
+  {
+    "formasi_id": "b3aa6a96-9528-4d15-93bb-80a0123991c4",
+    "ins_nm": "Kementerian Lingkungan Hidup dan Kehutanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYULUH KEHUTANAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN LINGKUNGAN HIDUP DAN KEHUTANAN | Badan Penyuluhan dan Pengembangan Sumber Daya Manusia | Balai Pelatihan Lingkungan Hidup dan Kehutanan Makassar | Seksi Sarana dan Evaluasi Pelatihan",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "5000000",
+    "gaji_max": "6500000",
+    "jumlah_ms": 1,
+    "kode_pend": "4480313",
+    "nama_pend": "D-III ILMU BIOLOGI"
+  },
+  {
+    "formasi_id": "c6800e79-c00f-43c5-870e-73a4011147d8",
+    "ins_nm": "Pemerintah Provinsi Bali",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYULUH KEHUTANAN TERAMPIL",
+    "lokasi_nm": "Pemerintah Provinsi Bali | DINAS KEHUTANAN DAN LINGKUNGAN HIDUP | UPTD KPH BALI BARAT",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2800000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 67,
+    "kode_pend": "4480313",
+    "nama_pend": "D-III ILMU BIOLOGI"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "5c25b802-3578-4d4c-b0c7-6896057475cb",
+    "ins_nm": "Pemerintah Kab. Bangka",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BANGKA | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | BIDANG BINA MARGA",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2184000",
+    "gaji_max": "4184000",
+    "jumlah_ms": 36,
+    "kode_pend": "4417016",
+    "nama_pend": "D-III TEKNIK MESIN MEKANIK"
+  },
+  {
+    "formasi_id": "ebddb72f-3969-4e19-b311-1b4fd281bdb4",
+    "ins_nm": "Pemerintah Kab. Bojonegoro",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BOJONEGORO | DINAS LINGKUNGAN HIDUP",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "6808900",
+    "jumlah_ms": 104,
+    "kode_pend": "4417016",
+    "nama_pend": "D-III TEKNIK MESIN MEKANIK"
+  }
+]

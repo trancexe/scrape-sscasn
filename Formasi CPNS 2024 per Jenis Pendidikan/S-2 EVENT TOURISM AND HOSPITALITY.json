@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0284b9917322570191790e03b92e49",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Rupa dan Desain | Prodi S1 Desain Interior, Jurusan Seni Rupa dan Desain",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7400448",
+    "nama_pend": "S-2 EVENT, TOURISM, AND HOSPITALITY"
+  },
+  {
+    "formasi_id": "8a0284b9917322570191790e42852e5a",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Rupa dan Desain | Prodi S1 Desain Interior, Jurusan Seni Rupa dan Desain",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7400448",
+    "nama_pend": "S-2 EVENT, TOURISM, AND HOSPITALITY"
+  },
+  {
+    "formasi_id": "0833a3bf-0396-47ea-b08a-df52d01d42e6",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Rupa dan Desain | Prodi S1 Desain Interior, Jurusan Seni Rupa dan Desain",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7400448",
+    "nama_pend": "S-2 EVENT, TOURISM, AND HOSPITALITY"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7400448",
+    "nama_pend": "S-2 EVENT, TOURISM, AND HOSPITALITY"
+  }
+]

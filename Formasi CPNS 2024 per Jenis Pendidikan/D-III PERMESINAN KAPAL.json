@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "dfca1a01-11fd-410e-b0e6-e43d0b1edbca",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA KELAUTAN DAN PERIKANAN | POLITEKNIK KELAUTAN DAN PERIKANAN DUMAI",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "6000000",
+    "gaji_max": "6700000",
+    "jumlah_ms": 52,
+    "kode_pend": "4100906",
+    "nama_pend": "D-III PERMESINAN KAPAL"
+  },
+  {
+    "formasi_id": "602377b9-0810-439c-b4ab-b52f2b188d56",
+    "ins_nm": "Pemerintah Kab. Tana Toraja",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA PENCARIAN DAN PERTOLONGAN TERAMPIL",
+    "lokasi_nm": "Pemerintah Kabupaten Tana Toraja | Badan Penanggulangan Bencana Daerah | Bidang Kedaruratan dan Logistik",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4747400",
+    "jumlah_ms": 4,
+    "kode_pend": "4100906",
+    "nama_pend": "D-III PERMESINAN KAPAL"
+  },
+  {
+    "formasi_id": "2d85cfc5-d696-4f70-a8bf-2451276d0ced",
+    "ins_nm": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH PROVINSI DKI JAKARTA | DINAS PERHUBUNGAN | UNIT PENGELOLA ANGKUTAN PERAIRAN | Satuan Pelaksana Pelayanan (Penata Layanan Operasional)",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "6848720",
+    "gaji_max": "15985900",
+    "jumlah_ms": 7,
+    "kode_pend": "4100906",
+    "nama_pend": "D-III PERMESINAN KAPAL"
+  }
+]

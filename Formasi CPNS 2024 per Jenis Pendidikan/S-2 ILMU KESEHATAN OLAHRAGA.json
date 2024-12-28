@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "4885aabb-3a21-40cc-b2a6-102692e57ba9",
+    "ins_nm": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Kementerian PPN/BAPPENAS | Deputi Bidang Pembangunan Manusia, Masyarakat Dan Kebudayaan | Direktorat Pendidikan Tinggi, dan Ilmu Pengetahuan dan Teknologi",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "9500000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 20,
+    "kode_pend": "7100835",
+    "nama_pend": "S-2 ILMU KESEHATAN OLAHRAGA"
+  },
+  {
+    "formasi_id": "dc064ef9-03e0-4557-946f-aaa461351e95",
+    "ins_nm": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Kementerian PPN/BAPPENAS | Deputi Bidang Pembangunan Manusia, Masyarakat Dan Kebudayaan | Direktorat Keluarga, Perempuan, Anak, Pemuda Dan Olah Raga",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "9500000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 14,
+    "kode_pend": "7100835",
+    "nama_pend": "S-2 ILMU KESEHATAN OLAHRAGA"
+  }
+]

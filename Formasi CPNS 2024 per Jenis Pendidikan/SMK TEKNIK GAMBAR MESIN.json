@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "e8d74911-5503-4470-878a-a7277064a5f1",
+    "ins_nm": "Pemerintah Kab. Paniai",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PENATA LAKSANA JALAN DAN JEMBATAN PEMULA",
+    "lokasi_nm": "Pemerintah Kabupaten Paniai | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | BIDANG BINA MARGA | Seksi Pembangunan Jalan dan Jembatan",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "3000000",
+    "jumlah_ms": 35,
+    "kode_pend": "3190053",
+    "nama_pend": "SMK TEKNIK GAMBAR MESIN"
+  },
+  {
+    "formasi_id": "8a0384c7915b4c4c01915e17cb9b1964",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM (NON OAP)",
+    "jabatan_nm": "PENATA LAKSANA JALAN DAN JEMBATAN PEMULA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | BIDANG BINA MARGA | SEKSI PEMBANGUNAN JALAN DAN JEMBATAN",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2184000",
+    "gaji_max": "3643400",
+    "jumlah_ms": 170,
+    "kode_pend": "3190053",
+    "nama_pend": "SMK TEKNIK GAMBAR MESIN"
+  },
+  {
+    "formasi_id": "f0570e84-3886-4146-b485-ce4aabbf29c0",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PENATA LAKSANA JALAN DAN JEMBATAN PEMULA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | BIDANG BINA MARGA | SEKSI PEMBANGUNAN JALAN DAN JEMBATAN",
+    "jumlah_formasi": 15,
+    "disable": 0,
+    "gaji_min": "2184000",
+    "gaji_max": "3643400",
+    "jumlah_ms": 335,
+    "kode_pend": "3190053",
+    "nama_pend": "SMK TEKNIK GAMBAR MESIN"
+  }
+]

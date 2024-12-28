@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "860f7557-52e1-47fb-865d-58b2612d254f",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Negeri Manado | Fakultas Matematika, Ilmu Pengetahuan Alam, dan Kebumian | Jurusan Pendidikan Kimia, Fakultas Matematika, Ilmu Pengetahuan Alam dan Kebumian | Prodi. S1 Kimia, Jurusan Pendidikan Kimia, Fakultas Matematika, Ilmu Pengetahuan Alam dan Kebumian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "7103237",
+    "nama_pend": "S-2 ILMU BAHAN"
+  },
+  {
+    "formasi_id": "e6ab0dbb-e9c5-4d58-a7de-e0821aa30fc7",
+    "ins_nm": "Pemerintah Kab. Buru Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PEREKAYASA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BURU SELATAN | Sekretariat Daerah | Dinas Perhubungan | BIDANG PERHUBUNGAN DARAT | SEKSI SARANA DAN PRASARANA JALAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 0,
+    "kode_pend": "7103237",
+    "nama_pend": "S-2 ILMU BAHAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7103237",
+    "nama_pend": "S-2 ILMU BAHAN"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a038450919cdb3c0191a8a47d432e46",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN AR-RANIRY BANDA ACEH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 7,
+    "kode_pend": "7199579",
+    "nama_pend": "S-2 PENGELOLAAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "b01dfbf2-8e50-43d5-b63f-2271cec200b7",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Sulawesi Barat | Fakultas Pertanian dan Kehutanan | Prodi S1 Agribisnis, Fakultas Pertanian dan Kehutanan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 6,
+    "kode_pend": "7199579",
+    "nama_pend": "S-2 PENGELOLAAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7199579",
+    "nama_pend": "S-2 PENGELOLAAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "1fef5141-d416-49c0-bf72-43cc2a2c1b0c",
+    "ins_nm": "Pemerintah Kab. Muara Enim",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MUARA ENIM | BADAN PENELITIAN DAN PENGEMBANGAN DAERAH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2903600",
+    "gaji_max": "3310104",
+    "jumlah_ms": 24,
+    "kode_pend": "7199579",
+    "nama_pend": "S-2 PENGELOLAAN LINGKUNGAN"
+  }
+]

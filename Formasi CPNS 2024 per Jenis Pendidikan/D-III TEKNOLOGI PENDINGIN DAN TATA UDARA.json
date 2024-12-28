@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "2cde5bdb-7ea4-4991-af8e-d686737a909b",
+    "ins_nm": "Pemerintah Kab. Brebes",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA BANGUNAN GEDUNG DAN PERMUKIMAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BREBES | DINAS PERUMAHAN RAKYAT DAN KAWASAN PEMUKIMAN | BIDANG PERUMAHAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "1988720",
+    "gaji_max": "2833926",
+    "jumlah_ms": 18,
+    "kode_pend": "4480187",
+    "nama_pend": "D-III TEKNOLOGI PENDINGIN DAN TATA UDARA"
+  },
+  {
+    "formasi_id": "d90c5d66-6d9d-4fe5-8398-e4b75d8308a2",
+    "ins_nm": "Pemerintah Kab. Polewali Mandar",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA BANGUNAN GEDUNG DAN PERMUKIMAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN POLEWALI MANDAR | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | BIDANG CIPTA KARYA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3958200",
+    "jumlah_ms": 28,
+    "kode_pend": "4480187",
+    "nama_pend": "D-III TEKNOLOGI PENDINGIN DAN TATA UDARA"
+  },
+  {
+    "formasi_id": "187b2047-06fc-4e9c-81b1-49949a27597b",
+    "ins_nm": "Pemerintah Kab. Sumbawa Barat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA BANGUNAN GEDUNG DAN PERMUKIMAN",
+    "lokasi_nm": "Pemerintah Kab. Sumbawa Barat | DINAS PERUMAHAN DAN PERMUKIMAN | BIDANG PERMUKIMAN",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 12,
+    "kode_pend": "4480187",
+    "nama_pend": "D-III TEKNOLOGI PENDINGIN DAN TATA UDARA"
+  },
+  {
+    "formasi_id": "b3671af0-5cfc-44dd-83e3-62ca1ed9cb42",
+    "ins_nm": "Pemerintah Kab. Tebo",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA LAKSANA BANGUNAN GEDUNG DAN KAWASAN PERMUKIMAN TERAMPIL",
+    "lokasi_nm": "Pemerintah Kabupaten Tebo | Dinas Pekerjaan Umum dan Penataan Ruang | Bidang Cipta Karya",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3124000",
+    "jumlah_ms": 10,
+    "kode_pend": "4480187",
+    "nama_pend": "D-III TEKNOLOGI PENDINGIN DAN TATA UDARA"
+  }
+]

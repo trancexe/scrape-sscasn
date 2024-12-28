@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "51b5e5cc-8ff4-4c8d-b9b6-691e90170a0a",
+    "ins_nm": "Pemerintah Kab. Bolaang Mongondow Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BOLAANG MONGONDOW TIMUR | DINAS PEKERJAAN UMUM DAN TATA RUANG | BIDANG BINA MARGA",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2299800",
+    "gaji_max": "3880000",
+    "jumlah_ms": 23,
+    "kode_pend": "3100153",
+    "nama_pend": "SMK/MAK TEKNIK ALAT BERAT"
+  },
+  {
+    "formasi_id": "f4fc7c5e-659a-4284-a23d-250aae994e13",
+    "ins_nm": "Pemerintah Kab. Muara Enim",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MUARA ENIM | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | UPTD ALAT BERAT DAN PENGUJIAN BAHAN MUTU",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2288200",
+    "gaji_max": "2608548",
+    "jumlah_ms": 7,
+    "kode_pend": "3100153",
+    "nama_pend": "SMK/MAK TEKNIK ALAT BERAT"
+  },
+  {
+    "formasi_id": "ee48a718-c25d-4275-af64-9f2da97fe07c",
+    "ins_nm": "Pemerintah Kota Bima",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "Walikota Bima | Dinas Pekerjaan Umum dan Penataan Ruang | Unit Pelaksana Teknis Balai Pengujian Material Konstruksi dan Peralatan",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2500000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 0,
+    "kode_pend": "3100153",
+    "nama_pend": "SMK/MAK TEKNIK ALAT BERAT"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "88e60f6d-27dc-440c-b92b-65b62625fdbf",
+    "ins_nm": "Kementerian Koordinator Bidang Perekonomian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Kementerian Koordinator Bidang Perekonomian | Sekretariat Kementerian Koordinator Bidang Perekonomian | Biro Perencanaan",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "6323614",
+    "gaji_max": "9125673",
+    "jumlah_ms": 43,
+    "kode_pend": "7103157",
+    "nama_pend": "S-2 EKONOMI STUDI PEMBANGUNAN"
+  },
+  {
+    "formasi_id": "b4e546c7-b779-4cba-bfc0-0cfef60e6d49",
+    "ins_nm": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Kementerian PPN/BAPPENAS | Deputi Bidang Ekonomi | Direktorat Industri, Pariwisata dan Ekonomi Kreatif",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "9500000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 142,
+    "kode_pend": "7103157",
+    "nama_pend": "S-2 EKONOMI STUDI PEMBANGUNAN"
+  },
+  {
+    "formasi_id": "d375d9a3-2d74-4e15-ada6-4e29a15350c9",
+    "ins_nm": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Kementerian PPN/BAPPENAS | Deputi Bidang Ekonomi | Direktorat Perdagangan, Investasi, dan Kerjasama Ekonomi Internasional",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "9500000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 28,
+    "kode_pend": "7103157",
+    "nama_pend": "S-2 EKONOMI STUDI PEMBANGUNAN"
+  },
+  {
+    "formasi_id": "db0272be-6b4c-4af3-ab9c-738d270ab5bc",
+    "ins_nm": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Kementerian PPN/BAPPENAS | Deputi Bidang Ekonomi | Direktorat Keuangan Negara Dan Analisis Moneter",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "9500000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 14,
+    "kode_pend": "7103157",
+    "nama_pend": "S-2 EKONOMI STUDI PEMBANGUNAN"
+  }
+]

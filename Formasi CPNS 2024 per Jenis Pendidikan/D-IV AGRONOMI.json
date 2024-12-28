@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "323892fc-f190-42cd-ab20-d9a42d0aae73",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BALAI PERIKANAN BUDI DAYA AIR TAWAR LAHEI | SUBBAGIAN TATA USAHA BALAI PERIKANAN BUDI DAYA AIR TAWAR  LAHEI",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 27,
+    "kode_pend": "5000105",
+    "nama_pend": "D-IV AGRONOMI"
+  },
+  {
+    "formasi_id": "7a63e2d5-a09d-4313-a79f-35c8aa94be57",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BIDANG PENANGKAPAN, KELEMBAGAAN, MUTU DAN PEMASARAN HASIL PERIKANAN",
+    "jumlah_formasi": 12,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 108,
+    "kode_pend": "5000105",
+    "nama_pend": "D-IV AGRONOMI"
+  },
+  {
+    "formasi_id": "e08df24f-6c4e-42d8-933e-5ef56a64624a",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BIDANG PENGELOLAAN PEMBUDIDAYAAN IKAN",
+    "jumlah_formasi": 13,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 223,
+    "kode_pend": "5000105",
+    "nama_pend": "D-IV AGRONOMI"
+  }
+]

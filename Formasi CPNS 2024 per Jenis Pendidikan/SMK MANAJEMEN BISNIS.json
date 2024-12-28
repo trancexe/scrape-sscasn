@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a0186cc9159ace501915a44742b588b",
+    "ins_nm": "Pemerintah Kab. Sarmi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "Pemerintah Kab. Sarmi | DINAS PERIKANAN | BIDANG PERIKANAN BUDIDAYA | SEKSI SARANA DAN PRASARANA BUDIDAYA IKAN",
+    "jumlah_formasi": 9,
+    "disable": 0,
+    "gaji_min": "2300000",
+    "gaji_max": "2700000",
+    "jumlah_ms": 543,
+    "kode_pend": "3101534",
+    "nama_pend": "SMK MANAJEMEN BISNIS"
+  },
+  {
+    "formasi_id": "cd37d535-8366-408f-a29a-549819b07d73",
+    "ins_nm": "Pemerintah Kab. Sarmi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM (NON OAP)",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "Pemerintah Kab. Sarmi | DINAS PERIKANAN | BIDANG PERIKANAN BUDIDAYA | SEKSI SARANA DAN PRASARANA BUDIDAYA IKAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2300000",
+    "gaji_max": "2700000",
+    "jumlah_ms": 38,
+    "kode_pend": "3101534",
+    "nama_pend": "SMK MANAJEMEN BISNIS"
+  }
+]

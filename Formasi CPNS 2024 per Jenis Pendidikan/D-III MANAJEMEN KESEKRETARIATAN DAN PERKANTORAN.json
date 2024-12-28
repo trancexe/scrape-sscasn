@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a0384c8915fa2df0191600f211a101c",
+    "ins_nm": "Pemerintah Kab. Lebong",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "PENGELOLA PENCARIAN DAN PERTOLONGAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LEBONG | BADAN PENANGULANGAN BENCANA DAERAH . | BIDANG PENCEGAHAN DAN KESIAPSIAGAAN | SUB BIDANG KESIAPSIAGAAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3958200",
+    "jumlah_ms": 0,
+    "kode_pend": "4402020",
+    "nama_pend": "D-III MANAJEMEN KESEKRETARIATAN DAN PERKANTORAN"
+  },
+  {
+    "formasi_id": "0f9db6cd-73fc-4768-a3ef-56b7d96e817b",
+    "ins_nm": "Pemerintah Kab. Lebong",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENCARIAN DAN PERTOLONGAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LEBONG | BADAN PENANGULANGAN BENCANA DAERAH . | BIDANG PENCEGAHAN DAN KESIAPSIAGAAN | SUB BIDANG KESIAPSIAGAAN",
+    "jumlah_formasi": 4,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3958200",
+    "jumlah_ms": 3,
+    "kode_pend": "4402020",
+    "nama_pend": "D-III MANAJEMEN KESEKRETARIATAN DAN PERKANTORAN"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "2f6f7bf0-fce1-4224-9f48-85627e63b29d",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI LALU LINTAS DAN PERPARKIRAN",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2300000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 7,
+    "kode_pend": "4400145",
+    "nama_pend": "D-III TEKNIK TRANSPORTASI"
+  },
+  {
+    "formasi_id": "83d08c54-e67d-414d-a587-46285d5dd947",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI PENGENDALIAN OPERASIONAL",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2300000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 9,
+    "kode_pend": "4400145",
+    "nama_pend": "D-III TEKNIK TRANSPORTASI"
+  }
+]

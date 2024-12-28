@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "ed3895aa-4871-4ec0-a894-0affbda75da0",
+    "ins_nm": "Pemerintah Kab. Limapuluh Kota",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LIMA PULUH KOTA | BADAN PENANGGULANGAN BENCANA DAERAH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 45,
+    "kode_pend": "5210038",
+    "nama_pend": "S-1 MANAJAMEN"
+  },
+  {
+    "formasi_id": "b6b3a1f2-1ec9-40da-b0bc-6750b2c23343",
+    "ins_nm": "Pemerintah Kab. Malaka",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MALAKA | DINAS KETENAGAKERJAAN DAN TRANSMIGRASI | DINAS KETENAGAKERJAAN DAN TRANSMIGRASI | SEKRETARIAT NAKERTRANS | SUB KOORDINATOR SUBSTANSI PERENCANAAN, EVALUASI DAN PELAPORAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 29,
+    "kode_pend": "5210038",
+    "nama_pend": "S-1 MANAJAMEN"
+  }
+]

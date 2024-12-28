@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "b49f3c1b-7573-45a7-a372-4c5e68016175",
+    "ins_nm": "Pemerintah Kab. Bojonegoro",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BOJONEGORO | DINAS PERHUBUNGAN",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "6808900",
+    "jumlah_ms": 0,
+    "kode_pend": "4417024",
+    "nama_pend": "D-III PENGUJI KENDARAAN BERMOTOR"
+  },
+  {
+    "formasi_id": "344fd158-5f8b-4ff0-80cd-924afc3253de",
+    "ins_nm": "Pemerintah Kab. Lingga",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LINGGA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI LALU LINTAS DAN ANGKUTAN JALAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3735900",
+    "jumlah_ms": 0,
+    "kode_pend": "4417024",
+    "nama_pend": "D-III PENGUJI KENDARAAN BERMOTOR"
+  },
+  {
+    "formasi_id": "c4732cdd-beaf-4697-82b8-473b85f517b0",
+    "ins_nm": "Pemerintah Kab. Lingga",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LINGGA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI TEKNIK DAN KESELAMATAN ANGKUTAN DARAT",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3735900",
+    "jumlah_ms": 1,
+    "kode_pend": "4417024",
+    "nama_pend": "D-III PENGUJI KENDARAAN BERMOTOR"
+  }
+]

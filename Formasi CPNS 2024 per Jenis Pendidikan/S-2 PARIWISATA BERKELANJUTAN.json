@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a038450919cdb3c0191a640d76312c2",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "IAIN SYEKH NURJATI CIREBON",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 4,
+    "kode_pend": "5193459",
+    "nama_pend": "S-2 PARIWISATA BERKELANJUTAN"
+  },
+  {
+    "formasi_id": "f54b2334-6d1f-4e6b-a367-7e15c691aaff",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA KELAUTAN DAN PERIKANAN | AKADEMI KOMUNITAS KELAUTAN DAN PERIKANAN WAKATOBI | Program Studi Ekowisata Bahari",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "8000000",
+    "gaji_max": "8500000",
+    "jumlah_ms": 0,
+    "kode_pend": "5193459",
+    "nama_pend": "S-2 PARIWISATA BERKELANJUTAN"
+  }
+]

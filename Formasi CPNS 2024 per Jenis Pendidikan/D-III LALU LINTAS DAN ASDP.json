@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "88a5bf27-965b-4ddd-a2f2-a3efee78235f",
+    "ins_nm": "Pemerintah Kab. Bangka",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BANGKA | DINAS PERHUBUNGAN | BIDANG LALU LINTAS DAN ANGKUTAN | SEKSI LALU LINTAS",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2485900",
+    "gaji_max": "3900000",
+    "jumlah_ms": 3,
+    "kode_pend": "4405050",
+    "nama_pend": "D-III LALU LINTAS DAN ASDP"
+  },
+  {
+    "formasi_id": "72bd9be5-74f6-439a-b3fb-fd1a5be32dbc",
+    "ins_nm": "Pemerintah Kab. Sanggau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SANGGAU | DINAS PERHUBUNGAN KAB. SANGGAU | BIDANG LALU LINTAS DAN ANGKUTAN | SEKSI LALU LINTAS ANGKUTAN JALAN DAN TERMINAL",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3500000",
+    "gaji_max": "4500000",
+    "jumlah_ms": 1,
+    "kode_pend": "4405050",
+    "nama_pend": "D-III LALU LINTAS DAN ASDP"
+  }
+]

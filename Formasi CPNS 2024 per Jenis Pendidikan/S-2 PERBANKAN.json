@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "c08f68f4-71f4-471c-94f7-7459e8c8d009",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN EKONOMI | DIREKTORAT KEUANGAN DAN PERBANKAN | SUB DIREKTORAT PERBANKAN DAN LEMBAGA KEUANGAN BUKAN BANK",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 2,
+    "kode_pend": "7100341",
+    "nama_pend": "S-2 PERBANKAN"
+  },
+  {
+    "formasi_id": "8a028487919cdb310191a6272e4d07ed",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN ANTASARI BANJARMASIN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 7,
+    "kode_pend": "7100341",
+    "nama_pend": "S-2 PERBANKAN"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a78082621f33",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN IMAM BONJOL PADANG",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 22,
+    "kode_pend": "7100341",
+    "nama_pend": "S-2 PERBANKAN"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a89fdddf2e2d",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN KIAI HAJI ACHMAD SIDDIQ JEMBER",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 3,
+    "kode_pend": "7100341",
+    "nama_pend": "S-2 PERBANKAN"
+  }
+]

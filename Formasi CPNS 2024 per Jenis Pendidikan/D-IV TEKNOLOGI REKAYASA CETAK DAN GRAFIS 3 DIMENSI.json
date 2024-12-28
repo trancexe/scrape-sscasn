@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "74cd9b99-fc3a-453f-9665-723854c766bc",
+    "ins_nm": "Kementerian Sosial",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "Kementerian Sosial Republik Indonesia | Direktorat Jenderal Rehabilitasi Sosial | Sentra \"Galih Pakuan\" di Bogor",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "7920850",
+    "gaji_max": "9710350",
+    "jumlah_ms": 6,
+    "kode_pend": "5080148",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA CETAK DAN GRAFIS 3 DIMENSI"
+  },
+  {
+    "formasi_id": "2b432f82-3958-4df1-b5f2-8e348a621a8d",
+    "ins_nm": "Pemerintah Kab. Muara Enim",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MUARA ENIM | DINAS TENAGA KERJA DAN TRANSMIGRASI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3175698",
+    "jumlah_ms": 20,
+    "kode_pend": "5080148",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA CETAK DAN GRAFIS 3 DIMENSI"
+  }
+]

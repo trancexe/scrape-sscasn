@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "5e953c8d-aef6-49c6-b09a-4b452866376f",
+    "ins_nm": "Pemerintah Kab. Sampang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SAMPANG | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI LALU LINTAS JALAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "1988720",
+    "gaji_max": "2267141",
+    "jumlah_ms": 0,
+    "kode_pend": "4100803",
+    "nama_pend": "D-III SEKOLAH TINGGI TRANSPORTASI DARAT (STTD) JURUSAN PENGUJIAN KENDARAAN BERMOTOR"
+  },
+  {
+    "formasi_id": "29d0e73f-9e18-4da3-9db1-037c37807bf3",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "Pemerintah Kota Serang | DINAS PERHUBUNGAN | BIDANG ANGKUTAN | SEKSI ANGKUTAN DARAT",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2246120",
+    "gaji_max": "2811346",
+    "jumlah_ms": 12,
+    "kode_pend": "4100803",
+    "nama_pend": "D-III SEKOLAH TINGGI TRANSPORTASI DARAT (STTD) JURUSAN PENGUJIAN KENDARAAN BERMOTOR"
+  }
+]

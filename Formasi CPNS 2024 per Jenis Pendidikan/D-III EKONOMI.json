@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a018692915486670191550297403324",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PUTRA/PUTRI PAPUA DAN PAPUA BARAT",
+    "jabatan_nm": "PENGELOLA PENANGANAN PERKARA",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 32,
+    "disable": 0,
+    "gaji_min": "7194100",
+    "gaji_max": "8924100",
+    "jumlah_ms": 0,
+    "kode_pend": "4600027",
+    "nama_pend": "D-III EKONOMI"
+  },
+  {
+    "formasi_id": "8a0186929154866701915502f2e133b0",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PUTRA/PUTRI KALIMANTAN",
+    "jabatan_nm": "PENGELOLA PENANGANAN PERKARA",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "7194100",
+    "gaji_max": "8924100",
+    "jumlah_ms": 10,
+    "kode_pend": "4600027",
+    "nama_pend": "D-III EKONOMI"
+  },
+  {
+    "formasi_id": "8a03849f914ed85101914f48be293c2c",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENANGANAN PERKARA",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 1447,
+    "disable": 1,
+    "gaji_min": "7194100",
+    "gaji_max": "8924100",
+    "jumlah_ms": 2292,
+    "kode_pend": "4600027",
+    "nama_pend": "D-III EKONOMI"
+  }
+]

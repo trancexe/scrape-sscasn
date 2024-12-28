@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "a7748f8c-f0d6-48f1-ad91-e0668ddff070",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Negeri Makassar | Fakultas Ilmu Pendidikan | Jurusan Pendidikan Guru Sekolah Dasar, Fakultas Ilmu Pendidikan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 8,
+    "kode_pend": "7100856",
+    "nama_pend": "S-2 PEDAGOGIK"
+  },
+  {
+    "formasi_id": "d967df3f-95da-4ad6-8a76-1a50b53d1fec",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Riau | Fakultas Keguruan dan Ilmu Pendidikan | Jurusan Ilmu Pendidikan, Fakultas Keguruan dan Imu Pendidikan | Prodi S1 Pendidikan Luar Sekolah, Jurusan Ilmu Pendidikan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 2,
+    "kode_pend": "7100856",
+    "nama_pend": "S-2 PEDAGOGIK"
+  },
+  {
+    "formasi_id": "ed935c30-3c35-4c3c-9ac2-caa6060c5d56",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Bandung | Fakultas Seni Rupa dan Desain | Jurusan Seni Rupa, Fakultas Seni Rupa dan Desain | Prodi S1 Seni Rupa Murni, Jurusan Seni Rupa",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 21,
+    "kode_pend": "7100856",
+    "nama_pend": "S-2 PEDAGOGIK"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7100856",
+    "nama_pend": "S-2 PEDAGOGIK"
+  }
+]

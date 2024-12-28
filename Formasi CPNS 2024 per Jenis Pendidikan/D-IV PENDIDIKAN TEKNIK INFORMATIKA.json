@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a02826391606efe0191610913f64d77",
+    "ins_nm": "Pemerintah Kota Tual",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "WALIKOTA TUAL | SEKRETARIAT DAERAH KOTA TUAL | DINAS PERIKANAN | BIDANG PENGELOLAAN PEMBUDIDAYAAN IKAN",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 0,
+    "kode_pend": "5010070",
+    "nama_pend": "D-IV PENDIDIKAN TEKNIK INFORMATIKA"
+  },
+  {
+    "formasi_id": "83895cc9-a9d7-4d7b-b761-00dd80c754b4",
+    "ins_nm": "Pemerintah Kota Tual",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "WALIKOTA TUAL | SEKRETARIAT DAERAH KOTA TUAL | DINAS PERIKANAN | BIDANG PENGELOLAAN PEMBUDIDAYAAN IKAN",
+    "jumlah_formasi": 10,
+    "disable": 0,
+    "gaji_min": "2000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 133,
+    "kode_pend": "5010070",
+    "nama_pend": "D-IV PENDIDIKAN TEKNIK INFORMATIKA"
+  }
+]

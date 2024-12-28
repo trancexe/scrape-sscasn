@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "9fde363c-467a-489e-a209-10386b9be7c6",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI PENGENDALIAN OPERASIONAL",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 61,
+    "kode_pend": "5100412",
+    "nama_pend": "S-1 AHLI TRANSPORTASI"
+  },
+  {
+    "formasi_id": "ca5caed0-2a19-4940-aa49-09f1f6691d0a",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI LALU LINTAS DAN PERPARKIRAN",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 26,
+    "kode_pend": "5100412",
+    "nama_pend": "S-1 AHLI TRANSPORTASI"
+  }
+]

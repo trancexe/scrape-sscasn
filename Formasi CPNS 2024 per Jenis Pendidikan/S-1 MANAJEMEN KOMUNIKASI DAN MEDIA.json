@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "61aa64ef-3e78-4f8f-a5e2-17f1945b2244",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN PENGAMANAN APARATUR | DIREKTORAT NON APARATUR NEGARA | SUB DIREKTORAT PENGAMANAN TOKOH POLITIK",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 11,
+    "kode_pend": "5210569",
+    "nama_pend": "S-1 MANAJEMEN KOMUNIKASI DAN MEDIA"
+  },
+  {
+    "formasi_id": "724e1be6-d6b9-43f3-9139-07143504dae2",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN PENGAMANAN APARATUR | DIREKTORAT NON APARATUR NEGARA | SUB DIREKTORAT PENGAMANAN TOKOH ORGANISASI MASYARAKAT DAN LSM",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 12,
+    "kode_pend": "5210569",
+    "nama_pend": "S-1 MANAJEMEN KOMUNIKASI DAN MEDIA"
+  },
+  {
+    "formasi_id": "efd95c02-df2e-4842-83ba-3c7843cf8948",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN PENGAMANAN APARATUR | DIREKTORAT NON APARATUR NEGARA | SUB DIREKTORAT PENGAMANAN PEJABAT PERGURUAN TINGGI",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 11,
+    "kode_pend": "5210569",
+    "nama_pend": "S-1 MANAJEMEN KOMUNIKASI DAN MEDIA"
+  },
+  {
+    "formasi_id": "2212ab40-888c-4977-9c86-6a2b1c755e41",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELAAH TEKNIS INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN TEKNOLOGI | DIREKTORAT MONITORING | SUB DIREKTORAT MONITORING TERTUTUP",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 0,
+    "kode_pend": "5210569",
+    "nama_pend": "S-1 MANAJEMEN KOMUNIKASI DAN MEDIA"
+  }
+]

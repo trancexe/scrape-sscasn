@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "e1d4a13c-c3cd-4059-b707-893b391ddde8",
+    "ins_nm": "Pemerintah Kab. Maluku Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MALUKU BARAT DAYA | DINAS PEKERJAAN UMUM, TATA RUANG DAN KAWASAN PERMUKIMAN | BIDANG BINA MARGA",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2511500",
+    "gaji_max": "3031200",
+    "jumlah_ms": 1,
+    "kode_pend": "3100120",
+    "nama_pend": "SLTA BIDANG ILMU MESIN"
+  },
+  {
+    "formasi_id": "c04a05b9-131f-47e4-8f09-fbfb355b97a4",
+    "ins_nm": "Pemerintah Kota Baubau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "Pemerintah Kota Bau Bau | SEKRETARIAT DAERAH | DINAS LINGKUNGAN HIDUP | UPTD Persampahan",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2200000",
+    "gaji_max": "3200000",
+    "jumlah_ms": 18,
+    "kode_pend": "3100120",
+    "nama_pend": "SLTA BIDANG ILMU MESIN"
+  }
+]

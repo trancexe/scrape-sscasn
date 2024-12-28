@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "dfa41abd-d4eb-4c56-9c4d-1a63bbb012c0",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN SIBER | DIREKTORAT RESPON ANCAMAN | SUB DIREKTORAT RESPON EKSTERNAL",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 1,
+    "kode_pend": "7104864",
+    "nama_pend": "S-2 KEAMANAN SIBER"
+  },
+  {
+    "formasi_id": "8a028487919cdb310191a775bf521d3c",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "IAIN SYEKH NURJATI CIREBON",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 0,
+    "kode_pend": "7104864",
+    "nama_pend": "S-2 KEAMANAN SIBER"
+  }
+]

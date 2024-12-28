@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a0384ba915598f40191560a49f649a5",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2708200",
+    "gaji_max": "3708200",
+    "jumlah_ms": 27,
+    "kode_pend": "4100592",
+    "nama_pend": "D-III TEKNIK PERMINYAKAN"
+  },
+  {
+    "formasi_id": "9138079b-8651-4eb1-93f0-dd31c2d2c676",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM (NON OAP)",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2708200",
+    "gaji_max": "3708200",
+    "jumlah_ms": 5,
+    "kode_pend": "4100592",
+    "nama_pend": "D-III TEKNIK PERMINYAKAN"
+  }
+]

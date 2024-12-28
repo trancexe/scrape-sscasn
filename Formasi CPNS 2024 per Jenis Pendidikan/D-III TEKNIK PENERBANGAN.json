@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "c34f83ae-273b-461e-846a-7bbe4dd3896b",
+    "ins_nm": "Pemerintah Kab. Demak",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENCARIAN DAN PERTOLONGAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN DEMAK | BADAN PENANGGULANGAN BENCANA DAERAH | BIDANG KEDARURATAN DAN LOGISTIK",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2400000",
+    "gaji_max": "3700000",
+    "jumlah_ms": 50,
+    "kode_pend": "4470143",
+    "nama_pend": "D-III TEKNIK PENERBANGAN"
+  },
+  {
+    "formasi_id": "d65ef73e-68ce-4f9c-a512-792b2e1636ce",
+    "ins_nm": "Pemerintah Kab. Ngada",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENCARIAN DAN PERTOLONGAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN NGADA | BADAN PENANGGULANGAN BENCANA DAERAH",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 4,
+    "kode_pend": "4470143",
+    "nama_pend": "D-III TEKNIK PENERBANGAN"
+  },
+  {
+    "formasi_id": "b2ba9885-6fa7-46e5-afd6-2c9a05d7b7dd",
+    "ins_nm": "Pemerintah Kab. Sijunjung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENCARIAN DAN PERTOLONGAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SIJUNJUNG | SATUAN POLISI PAMONG PRAJA DAN PEMADAM KEBAKARAN | BIDANG PEMADAM KEBAKARAN | SEKSI KESELAMATAN DAN BENCANA",
+    "jumlah_formasi": 12,
+    "disable": 1,
+    "gaji_min": "1500000",
+    "gaji_max": "3000000",
+    "jumlah_ms": 20,
+    "kode_pend": "4470143",
+    "nama_pend": "D-III TEKNIK PENERBANGAN"
+  }
+]

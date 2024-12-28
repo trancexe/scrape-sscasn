@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "84dada0a-eebd-4f5d-8c0b-4cb103f52230",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Akademi Komunitas Negeri Pacitan | Program Studi Teknik Pemeliharaan Kendaraan Ringan | D2 Pemeliharaan Kendaraan Ringan, Prodi Teknik Pemeliharaan Kendaraan Ringan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 31,
+    "kode_pend": "4100010",
+    "nama_pend": "D-III TEKNIK MESIN OTOMOTIF"
+  },
+  {
+    "formasi_id": "d4a6cfbc-79a2-420d-8d33-fb7550a60751",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Fakfak | Jurusan Teknik Perawatan dan Perbaikan Mesin",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 2,
+    "kode_pend": "4100010",
+    "nama_pend": "D-III TEKNIK MESIN OTOMOTIF"
+  },
+  {
+    "formasi_id": "ebddb72f-3969-4e19-b311-1b4fd281bdb4",
+    "ins_nm": "Pemerintah Kab. Bojonegoro",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BOJONEGORO | DINAS LINGKUNGAN HIDUP",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "6808900",
+    "jumlah_ms": 104,
+    "kode_pend": "4100010",
+    "nama_pend": "D-III TEKNIK MESIN OTOMOTIF"
+  }
+]

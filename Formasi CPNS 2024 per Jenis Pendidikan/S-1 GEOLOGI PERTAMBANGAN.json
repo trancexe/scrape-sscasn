@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "c2b022a8-6849-44cc-a359-7c9edd23c180",
+    "ins_nm": "Otorita Ibu Kota Nusantara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYELIDIK BUMI AHLI PERTAMA",
+    "lokasi_nm": "OTORITA IBU KOTA NUSANTARA | DEPUTI BIDANG PERENCANAAN DAN PERTANAHAN | DIREKTORAT PERENCANAAN MIKRO",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "12000000",
+    "gaji_max": "14500000",
+    "jumlah_ms": 65,
+    "kode_pend": "5102310",
+    "nama_pend": "S-1 GEOLOGI PERTAMBANGAN"
+  },
+  {
+    "formasi_id": "e308e86b-9907-405c-a798-ce4b7f1622e5",
+    "ins_nm": "Pemerintah Provinsi Maluku",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYELIDIK BUMI AHLI PERTAMA",
+    "lokasi_nm": "PROVINSI MALUKU | Sekretariat Daerah | Dinas Energi dan Sumber Daya Mineral",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "3300000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 56,
+    "kode_pend": "5102310",
+    "nama_pend": "S-1 GEOLOGI PERTAMBANGAN"
+  },
+  {
+    "formasi_id": "2399b982-0127-44da-8644-2b82d1d36bc9",
+    "ins_nm": "Pemerintah Provinsi NTT",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYELIDIK BUMI AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Provinsi NTT | DINAS ENERGI DAN SUMBER DAYA MINERAL PROVINSI NTT | BIDANG GEOLOGI DAN AIR TANAH",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 7,
+    "kode_pend": "5102310",
+    "nama_pend": "S-1 GEOLOGI PERTAMBANGAN"
+  },
+  {
+    "formasi_id": "f68ffcca-cb9d-4bc1-8d26-0835c73ec742",
+    "ins_nm": "Pemerintah Provinsi Sulawesi Barat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYELIDIK BUMI AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Provinsi Sulawesi Barat | Sekretariat Daerah | DINAS ENERGI DAN SUMBERDAYA MINERAL | Bidang Geologi dan Air Bawah Tanah",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2700000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 31,
+    "kode_pend": "5102310",
+    "nama_pend": "S-1 GEOLOGI PERTAMBANGAN"
+  }
+]

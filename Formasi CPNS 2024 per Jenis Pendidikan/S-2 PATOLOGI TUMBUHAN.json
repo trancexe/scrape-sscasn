@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0284b99173225701918d07570c71d6",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Jember | Fakultas Pertanian | Program Studi Sarjana (S1) Proteksi Tanaman - Fakultas Pertanian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 5,
+    "kode_pend": "7102935",
+    "nama_pend": "S-2 PATOLOGI TUMBUHAN"
+  },
+  {
+    "formasi_id": "5cbceb48-9b79-4b34-a683-7c6af644c5a9",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Jember | Fakultas Pertanian | Program Studi Sarjana (S1) Proteksi Tanaman - Fakultas Pertanian",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 12,
+    "kode_pend": "7102935",
+    "nama_pend": "S-2 PATOLOGI TUMBUHAN"
+  },
+  {
+    "formasi_id": "c3f30fc5-0594-4d2d-89a6-8c0a08b70525",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Mulawarman | Fakultas Pertanian | Jurusan Agroekoteknologi, Fakultas Pertanian | Prodi S1 Agroekoteknologi, Jurusan Agroekoteknologi",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 1,
+    "kode_pend": "7102935",
+    "nama_pend": "S-2 PATOLOGI TUMBUHAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7102935",
+    "nama_pend": "S-2 PATOLOGI TUMBUHAN"
+  }
+]

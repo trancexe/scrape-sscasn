@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "93dfeba2-129e-4092-874e-3d8a7df570a2",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN PENGAMANAN APARATUR | DIREKTORAT NON APARATUR NEGARA | SUB DIREKTORAT PENGAMANAN PEJABAT BUMN DAN BUMD",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 30,
+    "kode_pend": "5190067",
+    "nama_pend": "S-1 MANAJEMEN INDUSTRI"
+  },
+  {
+    "formasi_id": "3b2cab2b-80af-4e40-a0a3-4aa545219b8f",
+    "ins_nm": "Pemerintah Kab. Pulang Pisau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR PENERAPAN STANDAR DAN PENILAIAN KESESUAIAN",
+    "lokasi_nm": "PEMERINTAH KAB. PULANG PISAU | SEKRETARIAT DAERAH | DINAS PERINDUSTRIAN, PERDAGANGAN, KOPERASI, USAHA KECIL DAN MENENGAH | BIDANG KOPERASI, USAHA KECIL DAN MENENGAH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "5000000",
+    "jumlah_ms": 4,
+    "kode_pend": "5190067",
+    "nama_pend": "S-1 MANAJEMEN INDUSTRI"
+  },
+  {
+    "formasi_id": "e211dd71-ff3b-4ee0-8ffc-e1f0312d1eb9",
+    "ins_nm": "Pemerintah Kab. Pulang Pisau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR PENERAPAN STANDAR DAN PENILAIAN KESESUAIAN",
+    "lokasi_nm": "PEMERINTAH KAB. PULANG PISAU | SEKRETARIAT DAERAH | DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU | BIDANG PENGAWASAN DAN PENGENDALIAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "5000000",
+    "jumlah_ms": 3,
+    "kode_pend": "5190067",
+    "nama_pend": "S-1 MANAJEMEN INDUSTRI"
+  },
+  {
+    "formasi_id": "023cc78e-85e3-4fe1-a5fe-0e3d2d7b12c4",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR PENERAPAN STANDAR DAN PENILAIAN KESESUAIAN",
+    "lokasi_nm": "Pemerintah Kota Serang | DINAS KOPERASI, USAHA KECIL DAN MENENGAH, PERINDUSTRIAN DAN PERDAGANGAN | BIDANG PERDAGANGAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485960",
+    "gaji_max": "3093158",
+    "jumlah_ms": 1,
+    "kode_pend": "5190067",
+    "nama_pend": "S-1 MANAJEMEN INDUSTRI"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "2eb1539c-0f87-4ef2-84e9-f1c91b2c7b80",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Media Kreatif | Jurusan Desain Grafis | Program Studi D4 Teknologi Permainan- Jurusan Desain",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 5,
+    "kode_pend": "7400223",
+    "nama_pend": "S-2 MANAJEMEN INOVASI"
+  },
+  {
+    "formasi_id": "56e79b5c-c678-4671-a592-ca9317b01671",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Batam | Jurusan Manajemen Bisnis | D4 Adminisnistrasi Bisnis Terapan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 10,
+    "kode_pend": "7400223",
+    "nama_pend": "S-2 MANAJEMEN INOVASI"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7400223",
+    "nama_pend": "S-2 MANAJEMEN INOVASI"
+  },
+  {
+    "formasi_id": "4f0e059c-9fa6-4a5d-b299-328bae136061",
+    "ins_nm": "Pemerintah Kota Tegal",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kota Tegal | Badan Perencanaan Pembangunan, Riset dan Inovasi Daerah | Bidang Riset dan Inovasi Daerah",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2858150",
+    "gaji_max": "5518500",
+    "jumlah_ms": 4,
+    "kode_pend": "7400223",
+    "nama_pend": "S-2 MANAJEMEN INOVASI"
+  }
+]

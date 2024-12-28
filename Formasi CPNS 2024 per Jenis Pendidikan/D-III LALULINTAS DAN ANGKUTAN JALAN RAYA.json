@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "88a5bf27-965b-4ddd-a2f2-a3efee78235f",
+    "ins_nm": "Pemerintah Kab. Bangka",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BANGKA | DINAS PERHUBUNGAN | BIDANG LALU LINTAS DAN ANGKUTAN | SEKSI LALU LINTAS",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2485900",
+    "gaji_max": "3900000",
+    "jumlah_ms": 3,
+    "kode_pend": "4100642",
+    "nama_pend": "D-III LALULINTAS DAN ANGKUTAN JALAN RAYA"
+  },
+  {
+    "formasi_id": "395bb9db-abf8-4ce3-8e8a-49a884888368",
+    "ins_nm": "Pemerintah Kab. Bengkulu Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "Pemerintah Kabupaten Bengkulu Selatan | DINAS PERHUBUNGAN | Bidang Lalu lintas dan Angkutan | Seksi Lalu lintas",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 3,
+    "kode_pend": "4100642",
+    "nama_pend": "D-III LALULINTAS DAN ANGKUTAN JALAN RAYA"
+  }
+]

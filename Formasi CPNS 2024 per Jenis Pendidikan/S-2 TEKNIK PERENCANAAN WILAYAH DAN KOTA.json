@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a67aefc40a60",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN ALAUDDIN MAKASSAR",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 1,
+    "kode_pend": "7110071",
+    "nama_pend": "S-2 TEKNIK PERENCANAAN WILAYAH DAN KOTA"
+  },
+  {
+    "formasi_id": "48746d23-7043-4af6-8db7-0be01b9478ae",
+    "ins_nm": "Pemerintah Kab. Parigi Moutong",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PEMBINA JASA KONSTRUKSI AHLI PERTAMA",
+    "lokasi_nm": "BUPATI | DINAS PEKERJAAN UMUM, PENATAAN RUANG DAN PERTANAHAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 1,
+    "kode_pend": "7110071",
+    "nama_pend": "S-2 TEKNIK PERENCANAAN WILAYAH DAN KOTA"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "dbf6eb77-5581-42c8-9451-0dc208230505",
+    "ins_nm": "Pemerintah Kab. Kapuas Hulu",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "Pemerintah Kab. Kapuas hulu | Dinas Komunikasi, Informatika dan Statistik | Bidang Statistik dan Aplikasi Informatika",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3285700",
+    "jumlah_ms": 13,
+    "kode_pend": "5000155",
+    "nama_pend": "D-IV MATEMATIKA"
+  },
+  {
+    "formasi_id": "77c384df-399b-495d-89fb-dedc0fdb49c4",
+    "ins_nm": "Pemerintah Kab. Malinau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MALINAU | DINAS KOMUNIKASI DAN INFORMATIKA | BIDANG INFORMASI DAN KOMUNIKASI DAN STATISTIK",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3203600",
+    "gaji_max": "5261500",
+    "jumlah_ms": 12,
+    "kode_pend": "5000155",
+    "nama_pend": "D-IV MATEMATIKA"
+  }
+]

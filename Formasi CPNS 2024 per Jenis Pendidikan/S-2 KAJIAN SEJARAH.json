@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0284b9917322570191790eb0e32e79",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Pertunjukan | Prodi S1 Kajian Sastra dan Budaya, Jurusan Seni Pertunjukan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 1,
+    "kode_pend": "9940671",
+    "nama_pend": "S-2 KAJIAN SEJARAH"
+  },
+  {
+    "formasi_id": "546af882-a3ea-48a1-8114-4a5ffe3f9857",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Pertunjukan | Prodi S1 Kajian Sastra dan Budaya, Jurusan Seni Pertunjukan",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 10,
+    "kode_pend": "9940671",
+    "nama_pend": "S-2 KAJIAN SEJARAH"
+  },
+  {
+    "formasi_id": "83976564-18e2-4219-ab5f-c128fd7fc609",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Nusa Cendana | Fakultas Keguruan dan Ilmu Pendidikan | Prodi S1 Pendidikan Sejarah, Fakultas Keguruan dan Ilmu Pendidikan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9940671",
+    "nama_pend": "S-2 KAJIAN SEJARAH"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "9940671",
+    "nama_pend": "S-2 KAJIAN SEJARAH"
+  }
+]

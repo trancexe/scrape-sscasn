@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "531d6424-1c9b-4f39-95b3-dd42f6c20af5",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PERHUBUNGAN | BIDANG LALU LINTAS DAN ANGKUTAN JALAN | SEKSI MANAJEMEN LALU LINTAS DAN REKAYASA LALU LINTAS",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 2,
+    "kode_pend": "5100136",
+    "nama_pend": "S-1 MESIN"
+  },
+  {
+    "formasi_id": "d5c9f9dc-af74-4af3-b6ea-947f67c9030e",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PETUGAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PERHUBUNGAN | BIDANG LALU LINTAS DAN ANGKUTAN JALAN | SEKSI KESELAMATAN LALU LINTAS DAN ANGKUTAN JALAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 0,
+    "kode_pend": "5100136",
+    "nama_pend": "S-1 MESIN"
+  }
+]

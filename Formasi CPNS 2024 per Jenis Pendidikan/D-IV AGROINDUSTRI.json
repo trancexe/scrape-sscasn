@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "0db47e33-921a-43a0-9e6e-f029cd7fde4f",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Banyuwangi | Jurusan Pertanian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3398120",
+    "gaji_max": "8600528",
+    "jumlah_ms": 23,
+    "kode_pend": "5010508",
+    "nama_pend": "D-IV AGROINDUSTRI"
+  },
+  {
+    "formasi_id": "6941f2f3-8e0d-4991-8c36-7a32f91751b4",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | Direktorat Jenderal Pendidikan Vokasi | Balai Besar Pengembangan Penjaminan Mutu Pendidikan Vokasi Bidang Pertanian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3398120",
+    "gaji_max": "8600528",
+    "jumlah_ms": 27,
+    "kode_pend": "5010508",
+    "nama_pend": "D-IV AGROINDUSTRI"
+  },
+  {
+    "formasi_id": "b36d4001-7a0e-44d3-a310-e472f2d9cf9e",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | POLITEKNIK PEMBANGUNAN PERTANIAN MALANG",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 101,
+    "kode_pend": "5010508",
+    "nama_pend": "D-IV AGROINDUSTRI"
+  },
+  {
+    "formasi_id": "f748afdc-bb73-48f5-8c1e-30a02a7d827b",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | POLITEKNIK PEMBANGUNAN PERTANIAN BOGOR",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 337,
+    "kode_pend": "5010508",
+    "nama_pend": "D-IV AGROINDUSTRI"
+  }
+]

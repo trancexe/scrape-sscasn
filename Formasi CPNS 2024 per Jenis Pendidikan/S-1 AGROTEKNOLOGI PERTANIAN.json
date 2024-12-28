@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "1fd8f4f5-a0a6-4a78-ae07-2be533828499",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | Direktorat Jenderal Pendidikan Vokasi | Balai Besar Pengembangan Penjaminan Mutu Pendidikan Vokasi Bidang Pertanian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3398120",
+    "gaji_max": "8600528",
+    "jumlah_ms": 17,
+    "kode_pend": "5101427",
+    "nama_pend": "S-1 AGROTEKNOLOGI PERTANIAN"
+  },
+  {
+    "formasi_id": "cd279523-f245-4653-9a0d-c742c0cbf2d3",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Jambi | Fakultas Pertanian",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3398120",
+    "gaji_max": "8600528",
+    "jumlah_ms": 28,
+    "kode_pend": "5101427",
+    "nama_pend": "S-1 AGROTEKNOLOGI PERTANIAN"
+  }
+]

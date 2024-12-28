@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "2d5e1c71-8ac3-49cb-a125-a4dca5af573c",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA KELAUTAN DAN PERIKANAN | POLITEKNIK KELAUTAN DAN PERIKANAN KUPANG | Program Studi Teknik Penangkapan Ikan",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "8000000",
+    "gaji_max": "8500000",
+    "jumlah_ms": 5,
+    "kode_pend": "7199987",
+    "nama_pend": "S-2 TEKNOLOGI PERIKANAN LAUT"
+  },
+  {
+    "formasi_id": "d4687521-d97e-4882-b4f5-9acc008ea999",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA KELAUTAN DAN PERIKANAN | POLITEKNIK KELAUTAN DAN PERIKANAN DUMAI | Program Studi Perikanan Tangkap",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "8000000",
+    "gaji_max": "8500000",
+    "jumlah_ms": 2,
+    "kode_pend": "7199987",
+    "nama_pend": "S-2 TEKNOLOGI PERIKANAN LAUT"
+  }
+]

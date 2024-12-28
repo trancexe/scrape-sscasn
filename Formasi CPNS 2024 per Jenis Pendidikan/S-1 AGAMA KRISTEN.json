@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "25af4288-6b34-4923-b455-9286b891a8b9",
+    "ins_nm": "Pemerintah Provinsi Papua Tengah",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Provinsi Papua Tengah | SEKRETARIAT DAERAH | ASISTEN PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT | BIRO PEMERINTAHAN OTONOMI KHUSUS DAN KESEJAHTERAAN RAKYAT",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 87,
+    "kode_pend": "5192780",
+    "nama_pend": "S-1 AGAMA KRISTEN"
+  },
+  {
+    "formasi_id": "e3340813-df63-491b-99bd-5d7d420f8199",
+    "ins_nm": "Pemerintah Provinsi Papua Tengah",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Provinsi Papua Tengah | DINAS PENDIDIKAN DAN KEBUDAYAAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 62,
+    "kode_pend": "5192780",
+    "nama_pend": "S-1 AGAMA KRISTEN"
+  }
+]

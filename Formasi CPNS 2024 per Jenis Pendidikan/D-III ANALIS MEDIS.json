@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "a57e2a6e-b51a-4840-97dc-9e02456bbe0e",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Bengkulu | Fakultas Matematika dan Ilmu Pengetahuan Alam",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 12,
+    "kode_pend": "4400002",
+    "nama_pend": "D-III ANALIS MEDIS"
+  },
+  {
+    "formasi_id": "8540021b-abf5-4280-8f45-16d7ac8fb0bf",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | POLITEKNIK PEMBANGUNAN PERTANIAN GOWA",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2845944",
+    "gaji_max": "7056344",
+    "jumlah_ms": 7,
+    "kode_pend": "4400002",
+    "nama_pend": "D-III ANALIS MEDIS"
+  }
+]

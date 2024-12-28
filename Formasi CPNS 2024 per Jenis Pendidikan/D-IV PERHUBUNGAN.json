@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "131b954c-4c97-4094-a4f5-5ce46716c685",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS PERHUBUNGAN | TERMINAL PBB MUARA TEWEH | SUBBAGIAN TATA USAHA TERMINAL PBB MUARA TEWEH",
+    "jumlah_formasi": 7,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 16,
+    "kode_pend": "5010240",
+    "nama_pend": "D-IV PERHUBUNGAN"
+  },
+  {
+    "formasi_id": "9fde363c-467a-489e-a209-10386b9be7c6",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN DARAT | SEKSI PENGENDALIAN OPERASIONAL",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 61,
+    "kode_pend": "5010240",
+    "nama_pend": "D-IV PERHUBUNGAN"
+  }
+]

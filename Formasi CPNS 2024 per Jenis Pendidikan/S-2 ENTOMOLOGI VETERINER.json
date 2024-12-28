@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0284b99173225701918eb2688c1175",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Riau | Fakultas Kedokteran | Jurusan Preklinik, Fakultas Kedokteran | Prodi Kedokteran Hewan, Jurusan Preklinik",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 1,
+    "kode_pend": "7400017",
+    "nama_pend": "S-2 ENTOMOLOGI VETERINER"
+  },
+  {
+    "formasi_id": "8a0284b99173225701918eb2b8d41180",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Riau | Fakultas Kedokteran | Jurusan Preklinik, Fakultas Kedokteran | Prodi Kedokteran Hewan, Jurusan Preklinik",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 1,
+    "kode_pend": "7400017",
+    "nama_pend": "S-2 ENTOMOLOGI VETERINER"
+  },
+  {
+    "formasi_id": "f8cdb46b-fb9b-4297-8e37-ea821c3ab328",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Riau | Fakultas Kedokteran | Jurusan Preklinik, Fakultas Kedokteran | Prodi Kedokteran Hewan, Jurusan Preklinik",
+    "jumlah_formasi": 7,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 13,
+    "kode_pend": "7400017",
+    "nama_pend": "S-2 ENTOMOLOGI VETERINER"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7400017",
+    "nama_pend": "S-2 ENTOMOLOGI VETERINER"
+  }
+]

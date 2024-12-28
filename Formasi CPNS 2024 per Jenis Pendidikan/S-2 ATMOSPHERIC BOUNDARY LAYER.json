@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7400439",
+    "nama_pend": "S-2 ATMOSPHERIC BOUNDARY LAYER"
+  },
+  {
+    "formasi_id": "7be5100d-be38-4e7f-a19d-d29136c14d86",
+    "ins_nm": "Pemerintah Provinsi Jawa Barat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH DAERAH PROVINSI JAWA BARAT | BADAN PENELITIAN DAN PENGEMBANGAN DAERAH | BIDANG EKONOMI DAN PEMBANGUNAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 125,
+    "kode_pend": "7400439",
+    "nama_pend": "S-2 ATMOSPHERIC BOUNDARY LAYER"
+  },
+  {
+    "formasi_id": "7c4d7f1b-68cd-46c7-a373-d3c80c6c7bdb",
+    "ins_nm": "Pemerintah Provinsi Jawa Barat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH DAERAH PROVINSI JAWA BARAT | BADAN PENELITIAN DAN PENGEMBANGAN DAERAH | BIDANG SOSIAL DAN KEPENDUDUKAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 66,
+    "kode_pend": "7400439",
+    "nama_pend": "S-2 ATMOSPHERIC BOUNDARY LAYER"
+  }
+]

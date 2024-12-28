@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "7d8f082b-f04c-4af0-9c1f-ea1083a6969c",
+    "ins_nm": "Kementerian Ketenagakerjaan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "Kementerian Ketenagakerjaan | Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas | Balai Pelatihan Vokasi dan Produktivitas Bantaeng",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "7000000",
+    "gaji_max": "8500000",
+    "jumlah_ms": 17,
+    "kode_pend": "5001028",
+    "nama_pend": "D-IV TEKNOLOGI PEMBENIHAN IKAN"
+  },
+  {
+    "formasi_id": "f2fc5f59-eaf2-4093-9f03-b0685ecebe85",
+    "ins_nm": "Pemerintah Kab. Alor",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGGERAK SWADAYA MASYARAKAT AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Alor | Sekretariat Daerah | Asisten Pemerintahan Dan Kesejahteraan Rakyat | Bagian  Kesejahteraan Rakyat",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3500000",
+    "jumlah_ms": 125,
+    "kode_pend": "5001028",
+    "nama_pend": "D-IV TEKNOLOGI PEMBENIHAN IKAN"
+  },
+  {
+    "formasi_id": "b767c85e-39f1-499a-ad0e-ed2d1097fb36",
+    "ins_nm": "Pemerintah Kab. Minahasa Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Minahasa Selatan | Dinas Perikanan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2700000",
+    "gaji_max": "7000000",
+    "jumlah_ms": 9,
+    "kode_pend": "5001028",
+    "nama_pend": "D-IV TEKNOLOGI PEMBENIHAN IKAN"
+  }
+]

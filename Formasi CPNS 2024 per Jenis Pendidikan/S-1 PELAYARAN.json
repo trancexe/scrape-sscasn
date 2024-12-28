@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8754171d-b1e1-46e3-9a5e-457cb05d4139",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PERHUBUNGAN | BIDANG PELAYARAN | SEKSI BADAN USAHA DAN JASA TERKAIT ANGKUTAN PELAYARAN",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 0,
+    "kode_pend": "4100474",
+    "nama_pend": "S-1 PELAYARAN"
+  },
+  {
+    "formasi_id": "a622fd9a-6fe0-4add-9fe7-00d19706401e",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PERHUBUNGAN | BIDANG PELAYARAN | SEKSI ANGKUTAN PELAYARAN RAKYAT DAN ANGKUTAN SUNGAI, DAN PENYEBERANGAN",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 1,
+    "kode_pend": "4100474",
+    "nama_pend": "S-1 PELAYARAN"
+  },
+  {
+    "formasi_id": "c5b76293-7285-4e30-b390-e953bf2baecc",
+    "ins_nm": "Pemerintah Provinsi Papua Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA SELATAN | SEKRETARIAT DAERAH | DINAS PERHUBUNGAN | BIDANG PELAYARAN | SEKSI PELAYARAN DAN KEPELABUHANAN",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 2,
+    "kode_pend": "4100474",
+    "nama_pend": "S-1 PELAYARAN"
+  }
+]

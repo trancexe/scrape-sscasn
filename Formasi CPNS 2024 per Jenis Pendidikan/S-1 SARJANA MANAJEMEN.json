@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "34fb3e67-3452-4503-9d5c-f5e9b3c6d631",
+    "ins_nm": "Pemerintah Provinsi Kalimantan Tengah",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Provinsi Kalimantan Tengah | DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 8,
+    "kode_pend": "5101271",
+    "nama_pend": "S-1 SARJANA MANAJEMEN"
+  },
+  {
+    "formasi_id": "10522727-b4f5-4057-86ae-d8f62fd30bdb",
+    "ins_nm": "Pemerintah Provinsi Sulawesi Tenggara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR PENERAPAN STANDAR DAN PENILAIAN KESESUAIAN",
+    "lokasi_nm": "Pemerintah Sulawesi Tenggara | Sekretariat Daerah | Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu | Bidang Pengaduan Kebijakan dan Pelaporan Layanan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 9,
+    "kode_pend": "5101271",
+    "nama_pend": "S-1 SARJANA MANAJEMEN"
+  }
+]

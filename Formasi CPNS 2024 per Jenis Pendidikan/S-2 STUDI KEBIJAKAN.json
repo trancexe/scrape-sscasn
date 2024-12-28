@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a03849a9149c64e019149fb6e361ee3",
+    "ins_nm": "Kementerian Hukum dan Hak Asasi Manusia",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "WIDYAISWARA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA | UNIT\u00a0PUSAT",
+    "jumlah_formasi": 4,
+    "disable": 0,
+    "gaji_min": "2903600",
+    "gaji_max": "8738750",
+    "jumlah_ms": 420,
+    "kode_pend": "7100557",
+    "nama_pend": "S-2 STUDI KEBIJAKAN"
+  },
+  {
+    "formasi_id": "8a0384ba915598f4019155c5fb6b1f1c",
+    "ins_nm": "Kementerian Hukum dan Hak Asasi Manusia",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "WIDYAISWARA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA | UNIT\u00a0PUSAT",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2903600",
+    "gaji_max": "8738750",
+    "jumlah_ms": 5,
+    "kode_pend": "7100557",
+    "nama_pend": "S-2 STUDI KEBIJAKAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7100557",
+    "nama_pend": "S-2 STUDI KEBIJAKAN"
+  },
+  {
+    "formasi_id": "ae7d771e-3d75-48f8-a1d7-e9e80177c289",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kota Serang | BADAN PERENCANAAN PEMBANGUNAN DAERAH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2580280",
+    "gaji_max": "3203984",
+    "jumlah_ms": 5,
+    "kode_pend": "7100557",
+    "nama_pend": "S-2 STUDI KEBIJAKAN"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "17f19e7b-3432-4f41-a0c7-0038f7010360",
+    "ins_nm": "Kementerian Koordinator Bidang Perekonomian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA SISTEM DAN TEKNOLOGI INFORMASI",
+    "lokasi_nm": "Kementerian Koordinator Bidang Perekonomian | Sekretariat Kementerian Koordinator Bidang Perekonomian | Biro Perencanaan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "5321276",
+    "gaji_max": "7938010",
+    "jumlah_ms": 27,
+    "kode_pend": "5209115",
+    "nama_pend": "S-1/D-IV TEKNIK INFORMATIKA"
+  },
+  {
+    "formasi_id": "7736b5b4-f6e0-4468-8c4b-37aef0160f45",
+    "ins_nm": "Pemerintah Kota Lhokseumawe",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA KOMPUTER AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kota Lhokseumawe | DINAS PENDIDIKAN DAN KEBUDAYAAN | BIDANG PEMBINAAN PAUD DAN PENDIDIKAN NON FORMAL | SEKSI KELEMBAGAAN SARANA DAN PRASARANA (PAUD)",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2900000",
+    "gaji_max": "4900000",
+    "jumlah_ms": 3,
+    "kode_pend": "5209115",
+    "nama_pend": "S-1/D-IV TEKNIK INFORMATIKA"
+  },
+  {
+    "formasi_id": "7b6daa00-4892-47dd-9bf8-2e61dbbb1c04",
+    "ins_nm": "Pemerintah Kota Lhokseumawe",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA KOMPUTER AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kota Lhokseumawe | DINAS PENDIDIKAN DAN KEBUDAYAAN | SEKRETARIAT DINAS PENDIDIKAN DAN KEBUDAYAAN | SUB BAGIAN UMUM DAN KEPEGAWAIAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2900000",
+    "gaji_max": "4900000",
+    "jumlah_ms": 4,
+    "kode_pend": "5209115",
+    "nama_pend": "S-1/D-IV TEKNIK INFORMATIKA"
+  }
+]

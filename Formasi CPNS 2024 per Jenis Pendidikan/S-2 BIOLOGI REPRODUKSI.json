@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "0fb9bd54-8781-4295-b83d-fcd936378627",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Pattimura | Fakultas Sains dan Teknologi | Jurusan Biologi, Fakultas Sains dan Teknologi, Universitas Pattimura | Prodi S1 Biologi, Jurusan BIologi, Fakultas Sains dan Teknologi, Universitas Pattimuar",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 3,
+    "kode_pend": "7155020",
+    "nama_pend": "S-2 BIOLOGI REPRODUKSI"
+  },
+  {
+    "formasi_id": "14807d32-ba78-4ff5-b833-968c43473fd5",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Pertanian Negeri Payakumbuh | Jurusan Peternakan dan Kesehatan Hewan | Program Studi Paramedik Veteriner",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 2,
+    "kode_pend": "7155020",
+    "nama_pend": "S-2 BIOLOGI REPRODUKSI"
+  },
+  {
+    "formasi_id": "4758f840-e01d-4d05-abcc-c4ad1e5c8250",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Perikanan Negeri Tual | Jurusan Rekayasa Perikanan dan Kelautan | Program Studi D4 Teknologi Kelautan - Jurusan Rekayasa Perikanan dan Kelautan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 1,
+    "kode_pend": "7155020",
+    "nama_pend": "S-2 BIOLOGI REPRODUKSI"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7155020",
+    "nama_pend": "S-2 BIOLOGI REPRODUKSI"
+  }
+]

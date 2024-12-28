@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "94751c09-a2e7-4696-85f2-a09c4dcbf9da",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | BADAN INTELIJEN DAERAH | BAGAIAN OPERASIONAL",
+    "jumlah_formasi": 48,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 154,
+    "kode_pend": "5145013",
+    "nama_pend": "S-1 ILMU SOSIAL POLITIK"
+  },
+  {
+    "formasi_id": "6f8f4754-fbc6-48fc-a19e-d08d0a16bb06",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | BADAN INTELIJEN DAERAH | BAGAIAN OPERASIONAL",
+    "jumlah_formasi": 12,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 49,
+    "kode_pend": "5145013",
+    "nama_pend": "S-1 ILMU SOSIAL POLITIK"
+  },
+  {
+    "formasi_id": "39265dd0-3506-491c-8051-36a0c1ff46eb",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELAAH TEKNIS INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | BADAN INTELIJEN DAERAH | BAGAIAN OPERASIONAL",
+    "jumlah_formasi": 12,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 9,
+    "kode_pend": "5145013",
+    "nama_pend": "S-1 ILMU SOSIAL POLITIK"
+  }
+]

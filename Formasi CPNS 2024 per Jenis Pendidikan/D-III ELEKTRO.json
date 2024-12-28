@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "21f03495-4adc-4ad6-864d-a82c5cf40f10",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGOLAH DATA INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN TEKNOLOGI | DIREKTORAT MONITORING | SUB DIREKTORAT MONITORING BERGERAK",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 3,
+    "kode_pend": "4609112",
+    "nama_pend": "D-III ELEKTRO"
+  },
+  {
+    "formasi_id": "cfdec0b5-22ae-4528-8e34-896026a7f1c8",
+    "ins_nm": "Pemerintah Kab. Bengkulu Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "Pemerintah Kabupaten Bengkulu Selatan | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | Bidang Bina Marga",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 5,
+    "kode_pend": "4609112",
+    "nama_pend": "D-III ELEKTRO"
+  },
+  {
+    "formasi_id": "c5f4958f-56d8-49a8-bf64-5f6b2a3a3275",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "OPERATOR ALAT BERAT",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | BIDANG PERUMAHAN RAKYAT DAN BINA KONSTRUKSI | SEKSI PRASARANA, SARANA DAN UTILITAS",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2708200",
+    "gaji_max": "3708200",
+    "jumlah_ms": 14,
+    "kode_pend": "4609112",
+    "nama_pend": "D-III ELEKTRO"
+  }
+]

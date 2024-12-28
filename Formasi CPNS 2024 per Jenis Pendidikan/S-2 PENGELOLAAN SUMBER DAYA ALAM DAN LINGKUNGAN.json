@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a64443ec097a",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN ANTASARI BANJARMASIN",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 28,
+    "kode_pend": "7101739",
+    "nama_pend": "S-2 PENGELOLAAN SUMBER DAYA ALAM DAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "2cfdeedc-15a0-4624-9084-055b2a9fbdcb",
+    "ins_nm": "Kementerian Lingkungan Hidup dan Kehutanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "WIDYAISWARA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN LINGKUNGAN HIDUP DAN KEHUTANAN | Badan Penyuluhan dan Pengembangan Sumber Daya Manusia | Balai Pelatihan Lingkungan Hidup dan Kehutanan Kupang | Seksi Penyelenggaraan dan Kerjasama Pelatihan",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "6000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 34,
+    "kode_pend": "7101739",
+    "nama_pend": "S-2 PENGELOLAAN SUMBER DAYA ALAM DAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "bcc07393-83fb-497e-a2b3-f321b32e5b18",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Pertanian Negeri Samarinda | Jurusan Lingkungan dan Kehutanan | D3 Pengelolaan Lingkungan Jurusan Lingkungan dan Kehutanan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 3,
+    "kode_pend": "7101739",
+    "nama_pend": "S-2 PENGELOLAAN SUMBER DAYA ALAM DAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7101739",
+    "nama_pend": "S-2 PENGELOLAAN SUMBER DAYA ALAM DAN LINGKUNGAN"
+  }
+]

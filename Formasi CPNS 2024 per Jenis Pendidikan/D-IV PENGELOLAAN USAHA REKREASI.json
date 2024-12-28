@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "013ec69a-46a6-46a5-bf59-27aaa6ff11f2",
+    "ins_nm": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif | Deputi Bidang Pengembangan Destinasi dan Infrastruktur | Direktorat Pengembangan Destinasi II",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "8101650",
+    "gaji_max": "8841650",
+    "jumlah_ms": 428,
+    "kode_pend": "5000691",
+    "nama_pend": "D-IV PENGELOLAAN USAHA REKREASI"
+  },
+  {
+    "formasi_id": "5986efbe-3d29-48ea-9219-0a6c5a55aabf",
+    "ins_nm": "Pemerintah Kab. Manggarai Barat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MANGGARAI BARAT | DINAS TENAGA KERJA, TRANSMIGRASI KOPERASI DAN UKM | BIDANG PERENCANAAN, PELATIHAN DAN PENEMPATAN TENAGA KERJA",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 20,
+    "kode_pend": "5000691",
+    "nama_pend": "D-IV PENGELOLAAN USAHA REKREASI"
+  },
+  {
+    "formasi_id": "84ec6049-4cb9-4c8d-9582-bb4dbcdcd0c1",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kota Serang | SEKRETARIAT DAERAH",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2485960",
+    "gaji_max": "3093158",
+    "jumlah_ms": 26,
+    "kode_pend": "5000691",
+    "nama_pend": "D-IV PENGELOLAAN USAHA REKREASI"
+  },
+  {
+    "formasi_id": "7873f374-544a-4b86-aa7f-dd2ae6e8d626",
+    "ins_nm": "Pemerintah Provinsi Kalimantan Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI KALIMANTAN SELATAN | BADAN PERENCANAAN PEMBANGUNAN DAERAH | BIDANG PERENCANAAN, PENGENDALIAN DAN EVALUASI PEMBANGUNAN DAERAH",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "5000000",
+    "jumlah_ms": 293,
+    "kode_pend": "5000691",
+    "nama_pend": "D-IV PENGELOLAAN USAHA REKREASI"
+  }
+]

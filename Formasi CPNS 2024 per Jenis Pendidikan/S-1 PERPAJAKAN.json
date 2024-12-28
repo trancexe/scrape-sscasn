@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a01869291548667019154ed11140ecf",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN PENGAMANAN APARATUR",
+    "jumlah_formasi": 4,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 20,
+    "kode_pend": "5192638",
+    "nama_pend": "S-1 PERPAJAKAN"
+  },
+  {
+    "formasi_id": "93dfeba2-129e-4092-874e-3d8a7df570a2",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN PENGAMANAN APARATUR | DIREKTORAT NON APARATUR NEGARA | SUB DIREKTORAT PENGAMANAN PEJABAT BUMN DAN BUMD",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 30,
+    "kode_pend": "5192638",
+    "nama_pend": "S-1 PERPAJAKAN"
+  },
+  {
+    "formasi_id": "afbf66ab-4019-43a3-a32b-5aa3778e19c7",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "AGEN INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN EKONOMI | DIREKTORAT KEUANGAN DAN PERBANKAN | SUB DIREKTORAT KEUANGAN NEGARA DAN KEUANGAN DAERAH",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 2,
+    "kode_pend": "5192638",
+    "nama_pend": "S-1 PERPAJAKAN"
+  },
+  {
+    "formasi_id": "67839c18-e18c-422c-aa05-5b51f749b4b2",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | BADAN INTELIJEN DAERAH | BAGAIAN OPERASIONAL",
+    "jumlah_formasi": 40,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 86,
+    "kode_pend": "5192638",
+    "nama_pend": "S-1 PERPAJAKAN"
+  }
+]

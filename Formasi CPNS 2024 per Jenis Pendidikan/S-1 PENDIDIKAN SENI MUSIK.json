@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a038450919cdb3c0191a8b564e12f05",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "GURU AHLI PERTAMA - GURU SENI MUSIK",
+    "lokasi_nm": "KANWIL KEMENTERIAN AGAMA PROVINSI SUMATERA UTARA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 24,
+    "kode_pend": "5110532",
+    "nama_pend": "S-1 PENDIDIKAN SENI MUSIK"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a8d14c6d303e",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "GURU AHLI PERTAMA - GURU SENI MUSIK",
+    "lokasi_nm": "KANWIL KEMENTERIAN AGAMA PROVINSI JAWA TENGAH",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 100,
+    "kode_pend": "5110532",
+    "nama_pend": "S-1 PENDIDIKAN SENI MUSIK"
+  }
+]

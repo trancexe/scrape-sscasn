@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7400453",
+    "nama_pend": "S-2 GEOGRAFI FISIK DAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "d595b1c2-1974-4c84-aad1-ae8283e0cdd2",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kota Serang | BADAN PERENCANAAN PEMBANGUNAN DAERAH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2580280",
+    "gaji_max": "3203984",
+    "jumlah_ms": 5,
+    "kode_pend": "7400453",
+    "nama_pend": "S-2 GEOGRAFI FISIK DAN LINGKUNGAN"
+  }
+]

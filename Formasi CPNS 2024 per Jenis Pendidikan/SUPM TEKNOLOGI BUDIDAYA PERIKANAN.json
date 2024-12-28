@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "a18e99a9-396f-4807-aae4-fe1b8f66d8be",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BIDANG PENANGKAPAN, KELEMBAGAAN, MUTU DAN PEMASARAN HASIL PERIKANAN",
+    "jumlah_formasi": 13,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 13,
+    "kode_pend": "3171106",
+    "nama_pend": "SUPM TEKNOLOGI BUDIDAYA PERIKANAN"
+  },
+  {
+    "formasi_id": "19cfbdba-2248-4769-a855-dcca7763f353",
+    "ins_nm": "Pemerintah Kab. Kepulauan Tanimbar",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "KABUPATEN KEPULAUAN TANIMBAR | DINAS PERIKANAN | BIDANG USAHA PERIKANAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "1000000",
+    "gaji_max": "2184000",
+    "jumlah_ms": 9,
+    "kode_pend": "3171106",
+    "nama_pend": "SUPM TEKNOLOGI BUDIDAYA PERIKANAN"
+  },
+  {
+    "formasi_id": "eac40b8e-1f9c-43e8-9ad4-cd28cb696614",
+    "ins_nm": "Pemerintah Kab. Simeulue",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SIMEULUE | DINAS KELAUTAN DAN PERIKANAN KABUPATEN SIMEULUE | BIDANG PENGELOLAAN, PERIKANAN TANGKAP, PESISIR DAN PULAU-PULAU KECIL",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2511500",
+    "gaji_max": "3013800",
+    "jumlah_ms": 10,
+    "kode_pend": "3171106",
+    "nama_pend": "SUPM TEKNOLOGI BUDIDAYA PERIKANAN"
+  },
+  {
+    "formasi_id": "d145c2e4-9920-4cc7-b96d-0dcd1527dd4e",
+    "ins_nm": "Pemerintah Kab. Tapanuli Selatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "Pemerintah Kabupaten Tapanuli Selatan | DINAS PERIKANAN DAERAH | BIDANG PRODUKSI PERIKANAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2184000",
+    "gaji_max": "4189900",
+    "jumlah_ms": 2,
+    "kode_pend": "3171106",
+    "nama_pend": "SUPM TEKNOLOGI BUDIDAYA PERIKANAN"
+  }
+]

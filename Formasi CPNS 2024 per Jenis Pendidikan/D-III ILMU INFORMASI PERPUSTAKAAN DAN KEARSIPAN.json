@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a01869291548667019154ffc8db2dc2",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 100,
+    "disable": 1,
+    "gaji_min": "7815650",
+    "gaji_max": "9605150",
+    "jumlah_ms": 29,
+    "kode_pend": "4400096",
+    "nama_pend": "D-III ILMU INFORMASI PERPUSTAKAAN DAN KEARSIPAN"
+  },
+  {
+    "formasi_id": "8a01869291548667019155008c1c2f45",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PUTRA/PUTRI PAPUA DAN PAPUA BARAT",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 18,
+    "disable": 0,
+    "gaji_min": "7815650",
+    "gaji_max": "9605150",
+    "jumlah_ms": 2,
+    "kode_pend": "4400096",
+    "nama_pend": "D-III ILMU INFORMASI PERPUSTAKAAN DAN KEARSIPAN"
+  },
+  {
+    "formasi_id": "8a0186929154866701915500ee6e3036",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PUTRA/PUTRI KALIMANTAN",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "7815650",
+    "gaji_max": "9605150",
+    "jumlah_ms": 20,
+    "kode_pend": "4400096",
+    "nama_pend": "D-III ILMU INFORMASI PERPUSTAKAAN DAN KEARSIPAN"
+  },
+  {
+    "formasi_id": "8a03849f914ed85101914f34d27b186d",
+    "ins_nm": "Kejaksaan Agung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "Kejaksaan Agung",
+    "jumlah_formasi": 859,
+    "disable": 1,
+    "gaji_min": "7815650",
+    "gaji_max": "9605150",
+    "jumlah_ms": 1439,
+    "kode_pend": "4400096",
+    "nama_pend": "D-III ILMU INFORMASI PERPUSTAKAAN DAN KEARSIPAN"
+  }
+]

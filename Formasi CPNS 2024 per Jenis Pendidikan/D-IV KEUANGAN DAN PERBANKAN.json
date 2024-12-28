@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "6470d582-1d34-4cbd-b1a3-6c57ba089e4d",
+    "ins_nm": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | Direktorat Jenderal Perumahan | Balai Pelaksana Penyediaan Perumahan Jawa I | Seksi Pelaksanaan Wilayah II",
+    "jumlah_formasi": 8,
+    "disable": 1,
+    "gaji_min": "9400000",
+    "gaji_max": "10000000",
+    "jumlah_ms": 178,
+    "kode_pend": "5102412",
+    "nama_pend": "D-IV KEUANGAN DAN PERBANKAN"
+  },
+  {
+    "formasi_id": "77ddbca7-161a-4d23-920b-0bd855da12bd",
+    "ins_nm": "Pemerintah Kab. Flores Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Flores Timur | Dinas Perumahan, Kawasan Permukiman dan Pertanahan | Bidang Perumahan Dan Kawasan Permukiman",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "6000000",
+    "jumlah_ms": 3,
+    "kode_pend": "5102412",
+    "nama_pend": "D-IV KEUANGAN DAN PERBANKAN"
+  },
+  {
+    "formasi_id": "a1ed3b62-64c0-4f09-bb75-86a0863ec07c",
+    "ins_nm": "Pemerintah Kab. Labuhanbatu",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "Kabupaten Labuhanbatu | Dinas Perumahan Rakyat dan Kawasan Permukiman | Bidang Perumahan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 55,
+    "kode_pend": "5102412",
+    "nama_pend": "D-IV KEUANGAN DAN PERBANKAN"
+  }
+]

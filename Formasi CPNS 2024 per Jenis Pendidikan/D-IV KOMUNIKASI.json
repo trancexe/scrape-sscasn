@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "b630f2b2-ab59-4762-8802-7c6efa788a76",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELAAH TEKNIS INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN LUAR NEGERI | DIREKTORAT AMERIKA DAN EROPA | SUBDIREKTORAT EROPA II",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 2,
+    "kode_pend": "5010407",
+    "nama_pend": "D-IV KOMUNIKASI"
+  },
+  {
+    "formasi_id": "0182a66e-d849-4404-b3a8-b015f80b0fab",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR BAHASA ISYARAT",
+    "lokasi_nm": "Pemerintah Kota Serang | SEKRETARIAT DAERAH | ASISTEN ADMINISTRASI UMUM | BAGIAN PROTOKOL DAN KOMUNIKASI PIMPINAN | SUB BAGIAN PROTOKOL",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485960",
+    "gaji_max": "3093158",
+    "jumlah_ms": 1,
+    "kode_pend": "5010407",
+    "nama_pend": "D-IV KOMUNIKASI"
+  }
+]

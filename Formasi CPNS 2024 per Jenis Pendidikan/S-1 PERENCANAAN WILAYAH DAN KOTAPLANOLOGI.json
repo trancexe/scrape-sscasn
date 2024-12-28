@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "58645361-d921-4123-a921-4cf0f97f26fc",
+    "ins_nm": "Pemerintah Kota Bogor",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH DAERAH KOTA BOGOR | Dinas Perumahan dan Permukiman | Sekretariat",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2840980",
+    "gaji_max": "6032958",
+    "jumlah_ms": 37,
+    "kode_pend": "5210445",
+    "nama_pend": "S-1 PERENCANAAN WILAYAH DAN KOTA/PLANOLOGI"
+  },
+  {
+    "formasi_id": "7869c66f-447c-4981-854b-476dd3cfbb1e",
+    "ins_nm": "Pemerintah Kota Cirebon",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH DAERAH KOTA CIREBON | BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH | BIDANG PERENCANAAN PEREKONOMIAN DAN SUMBER DAYA ALAM",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2700000",
+    "gaji_max": "3100000",
+    "jumlah_ms": 1,
+    "kode_pend": "5210445",
+    "nama_pend": "S-1 PERENCANAAN WILAYAH DAN KOTA/PLANOLOGI"
+  },
+  {
+    "formasi_id": "b7deb0fe-9233-43cd-bc5c-49772562cb31",
+    "ins_nm": "Pemerintah Kota Cirebon",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH DAERAH KOTA CIREBON | BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH | BIDANG PERENCANAAN INFRASTRUKTUR DAN KEWILAYAHAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2700000",
+    "gaji_max": "3100000",
+    "jumlah_ms": 14,
+    "kode_pend": "5210445",
+    "nama_pend": "S-1 PERENCANAAN WILAYAH DAN KOTA/PLANOLOGI"
+  },
+  {
+    "formasi_id": "ea083b4d-c823-4e1f-96cd-706c7eed6242",
+    "ins_nm": "Pemerintah Kota Cirebon",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH DAERAH KOTA CIREBON | BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH | BIDANG PERENCANAAN PEMERINTAHAN DAN PEMBANGUNAN MANUSIA",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2700000",
+    "gaji_max": "3100000",
+    "jumlah_ms": 5,
+    "kode_pend": "5210445",
+    "nama_pend": "S-1 PERENCANAAN WILAYAH DAN KOTA/PLANOLOGI"
+  }
+]

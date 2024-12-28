@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0284b991732257019179187c5e2f36",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Pertunjukan | Prodi S1 Seni Teater, Jurusan Seni Pertunjukan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9940639",
+    "nama_pend": "S-2 ESTETIKA FILM"
+  },
+  {
+    "formasi_id": "8a0284b991732257019179194e162f47",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Pertunjukan | Prodi S1 Seni Teater, Jurusan Seni Pertunjukan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9940639",
+    "nama_pend": "S-2 ESTETIKA FILM"
+  },
+  {
+    "formasi_id": "1dab9bed-7690-49b8-84eb-152059e3c5eb",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Institut Seni Budaya Indonesia Aceh | Jurusan Seni Pertunjukan | Prodi S1 Seni Teater, Jurusan Seni Pertunjukan",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9940639",
+    "nama_pend": "S-2 ESTETIKA FILM"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "9940639",
+    "nama_pend": "S-2 ESTETIKA FILM"
+  }
+]

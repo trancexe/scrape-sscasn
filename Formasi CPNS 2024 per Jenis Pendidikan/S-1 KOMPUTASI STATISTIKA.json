@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "dbf6eb77-5581-42c8-9451-0dc208230505",
+    "ins_nm": "Pemerintah Kab. Kapuas Hulu",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "Pemerintah Kab. Kapuas hulu | Dinas Komunikasi, Informatika dan Statistik | Bidang Statistik dan Aplikasi Informatika",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3285700",
+    "jumlah_ms": 13,
+    "kode_pend": "5193407",
+    "nama_pend": "S-1 KOMPUTASI STATISTIKA"
+  },
+  {
+    "formasi_id": "e6f486e1-8ff9-4c8e-817d-4c3d7fa045b5",
+    "ins_nm": "Pemerintah Kab. Kendal",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KENDAL | DINAS KOMUNIKASI DAN INFORMATIKA | BIDANG STATISTIK DAN PERSANDIAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "3700000",
+    "jumlah_ms": 23,
+    "kode_pend": "5193407",
+    "nama_pend": "S-1 KOMPUTASI STATISTIKA"
+  },
+  {
+    "formasi_id": "63c36357-04f3-4eba-9c31-20ef19c869e0",
+    "ins_nm": "Pemerintah Provinsi Lampung",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "PEMERINTAH PROVINSI LAMPUNG | DINAS KOMUNIKASI, INFORMATIKA DAN STATISTIK | BIDANG PERSANDIAN DAN STATISTIK",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2228560",
+    "gaji_max": "4228560",
+    "jumlah_ms": 0,
+    "kode_pend": "5193407",
+    "nama_pend": "S-1 KOMPUTASI STATISTIKA"
+  }
+]

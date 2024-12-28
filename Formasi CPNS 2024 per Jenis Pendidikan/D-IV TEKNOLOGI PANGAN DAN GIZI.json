@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a0384b49150287401915177aaa7421c",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSPEKTUR MUTU HASIL PERIKANAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENGENDALIAN DAN PENGAWASAN MUTU HASIL KELAUTAN DAN PERIKANAN",
+    "jumlah_formasi": 18,
+    "disable": 0,
+    "gaji_min": "7100000",
+    "gaji_max": "7700000",
+    "jumlah_ms": 1723,
+    "kode_pend": "5070129",
+    "nama_pend": "D-IV TEKNOLOGI PANGAN DAN GIZI"
+  },
+  {
+    "formasi_id": "50cf797e-bf20-4661-b573-ee4cdc0ecb8e",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSPEKTUR MUTU HASIL PERIKANAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENGENDALIAN DAN PENGAWASAN MUTU HASIL KELAUTAN DAN PERIKANAN | BALAI KARANTINA IKAN, PENGENDALIAN MUTU, DAN KEAMANAN HASIL PERIKANAN DENPASAR",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "7100000",
+    "gaji_max": "7700000",
+    "jumlah_ms": 51,
+    "kode_pend": "5070129",
+    "nama_pend": "D-IV TEKNOLOGI PANGAN DAN GIZI"
+  },
+  {
+    "formasi_id": "8da91b4f-6931-495a-8ba0-f08b2ce8e3f0",
+    "ins_nm": "Pemerintah Kab. Labuhanbatu",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "Kabupaten Labuhanbatu | Dinas Kelautan dan Perikanan | Bidang Pengembangan Usaha",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 51,
+    "kode_pend": "5070129",
+    "nama_pend": "D-IV TEKNOLOGI PANGAN DAN GIZI"
+  }
+]

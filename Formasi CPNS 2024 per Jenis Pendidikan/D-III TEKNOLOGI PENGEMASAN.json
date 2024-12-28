@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a0186929154866701915545495b767b",
+    "ins_nm": "Otorita Ibu Kota Nusantara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PUTRA/PUTRI KALIMANTAN",
+    "jabatan_nm": "POLISI PAMONG PRAJA TERAMPIL",
+    "lokasi_nm": "OTORITA IBU KOTA NUSANTARA | DEPUTI BIDANG PENGENDALIAN PEMBANGUNAN | DIREKTORAT KETENTERAMAN DAN KETERTIBAN UMUM",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "10000000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 14,
+    "kode_pend": "4480189",
+    "nama_pend": "D-III TEKNOLOGI PENGEMASAN"
+  },
+  {
+    "formasi_id": "20ed4ff7-3501-4f8e-9b3c-1c65279b42b5",
+    "ins_nm": "Otorita Ibu Kota Nusantara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "POLISI PAMONG PRAJA TERAMPIL",
+    "lokasi_nm": "OTORITA IBU KOTA NUSANTARA | DEPUTI BIDANG PENGENDALIAN PEMBANGUNAN | DIREKTORAT KETENTERAMAN DAN KETERTIBAN UMUM",
+    "jumlah_formasi": 4,
+    "disable": 1,
+    "gaji_min": "10000000",
+    "gaji_max": "12500000",
+    "jumlah_ms": 14,
+    "kode_pend": "4480189",
+    "nama_pend": "D-III TEKNOLOGI PENGEMASAN"
+  },
+  {
+    "formasi_id": "ee1628e3-cbbc-4af1-a66b-8ae71a70f2d1",
+    "ins_nm": "Pemerintah Kab. Timor Tengah Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "POLISI PAMONG PRAJA TERAMPIL",
+    "lokasi_nm": "PEMERINTAH KABUPATEN TIMOR TENGAH UTARA | SATUAN POLISI PAMONG PRAJA | BIDANG PENEGAKAN PRODUK HUKUM DAERAH",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2485000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 8,
+    "kode_pend": "4480189",
+    "nama_pend": "D-III TEKNOLOGI PENGEMASAN"
+  }
+]

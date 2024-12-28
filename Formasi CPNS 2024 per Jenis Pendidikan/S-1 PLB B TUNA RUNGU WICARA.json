@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "20ab7114-9324-44ac-97f3-4752b647dc35",
+    "ins_nm": "Pemerintah Kota Batam",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR BAHASA ISYARAT",
+    "lokasi_nm": "PEMERINTAH KOTA BATAM | SEKRETARIAT DAERAH KOTA BATAM | ASISTEN PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT | BAGIAN KERJA SAMA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2858800",
+    "gaji_max": "6061949",
+    "jumlah_ms": 9,
+    "kode_pend": "5100400",
+    "nama_pend": "S-1 PLB B (TUNA RUNGU WICARA)"
+  },
+  {
+    "formasi_id": "0182a66e-d849-4404-b3a8-b015f80b0fab",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR BAHASA ISYARAT",
+    "lokasi_nm": "Pemerintah Kota Serang | SEKRETARIAT DAERAH | ASISTEN ADMINISTRASI UMUM | BAGIAN PROTOKOL DAN KOMUNIKASI PIMPINAN | SUB BAGIAN PROTOKOL",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485960",
+    "gaji_max": "3093158",
+    "jumlah_ms": 1,
+    "kode_pend": "5100400",
+    "nama_pend": "S-1 PLB B (TUNA RUNGU WICARA)"
+  },
+  {
+    "formasi_id": "fe4c8f6d-8c99-4cd1-9c84-fe01a6cd22ae",
+    "ins_nm": "Pemerintah Kota Serang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR BAHASA ISYARAT",
+    "lokasi_nm": "Pemerintah Kota Serang | DINAS SOSIAL | BIDANG PEMBERDAYAAN SOSIAL",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485960",
+    "gaji_max": "3093158",
+    "jumlah_ms": 1,
+    "kode_pend": "5100400",
+    "nama_pend": "S-1 PLB B (TUNA RUNGU WICARA)"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0384c7915b4c4c01915b575c0106fb",
+    "ins_nm": "Kementerian Kesehatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "Kementerian Kesehatan | Direktorat Jenderal Tenaga Kesehatan | Poltekkes Kemenkes Kalimantan Timur | Jurusan Kebidanan | Prodi Sarjana Terapan Kebidanan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "6000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 2,
+    "kode_pend": "7103616",
+    "nama_pend": "S-2 TERAPAN KEBIDANAN"
+  },
+  {
+    "formasi_id": "4cc5a641-cf24-4c59-ac72-4ff5392ba529",
+    "ins_nm": "Kementerian Kesehatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "Kementerian Kesehatan | Direktorat Jenderal Tenaga Kesehatan | Poltekkes Kemenkes Kalimantan Timur | Jurusan Kebidanan | Prodi Sarjana Terapan Kebidanan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "6000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 6,
+    "kode_pend": "7103616",
+    "nama_pend": "S-2 TERAPAN KEBIDANAN"
+  },
+  {
+    "formasi_id": "746a1d26-1fd9-4cb2-b9cf-368718bc6189",
+    "ins_nm": "Kementerian Kesehatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "Kementerian Kesehatan | Direktorat Jenderal Tenaga Kesehatan | Poltekkes Kemenkes Semarang | Jurusan Kebidanan | Prodi Sarjana Terapan Kebidanan Semarang",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 34,
+    "kode_pend": "7103616",
+    "nama_pend": "S-2 TERAPAN KEBIDANAN"
+  },
+  {
+    "formasi_id": "d7800069-08ac-4c91-a653-4c8a76219d50",
+    "ins_nm": "Kementerian Kesehatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "Kementerian Kesehatan | Direktorat Jenderal Tenaga Kesehatan | Poltekkes Kemenkes Kalimantan Timur | Jurusan Kebidanan | Prodi DIII Kebidanan Samarinda",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "6000000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 3,
+    "kode_pend": "7103616",
+    "nama_pend": "S-2 TERAPAN KEBIDANAN"
+  }
+]

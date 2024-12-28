@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "2890b0df-7cde-47d3-a023-60928ea679c1",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | INSPEKTORAT UTAMA | INSPEKTORAT KINERJA",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 6,
+    "kode_pend": "7103253",
+    "nama_pend": "S-2 ADMINISTRASI PEMERINTAHAN"
+  },
+  {
+    "formasi_id": "cf728dfe-8692-4a2f-a9b5-37957f615fa4",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | INSPEKTORAT UTAMA | INSPEKTORAT PERSONEL",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 0,
+    "kode_pend": "7103253",
+    "nama_pend": "S-2 ADMINISTRASI PEMERINTAHAN"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a830df5d283f",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "IAIN SULTAN AMAI GORONTALO",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 0,
+    "kode_pend": "7103253",
+    "nama_pend": "S-2 ADMINISTRASI PEMERINTAHAN"
+  }
+]

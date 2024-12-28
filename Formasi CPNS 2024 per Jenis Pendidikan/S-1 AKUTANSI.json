@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "54cbef9b-e8bd-4307-bba0-e30bac25e56d",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS PENDATAAN STATISTIK",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KOMUNIKASI, INFORMATIKA DAN PERSANDIAN | BIDANG PERSANDIAN DAN PENGAMANAN INFORMASI | SEKSI STATISTIK",
+    "jumlah_formasi": 10,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 60,
+    "kode_pend": "5102257",
+    "nama_pend": "S-1 AKUTANSI"
+  },
+  {
+    "formasi_id": "22ad31e3-16dd-45c3-8094-6c3054ed380e",
+    "ins_nm": "Pemerintah Kab. Lamongan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR BAHASA ISYARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LAMONGAN | DINAS SOSIAL | BIDANG PENANGANAN FAKIR MISKIN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "4500000",
+    "jumlah_ms": 35,
+    "kode_pend": "5102257",
+    "nama_pend": "S-1 AKUTANSI"
+  },
+  {
+    "formasi_id": "6d774e22-7236-43d9-b7ed-b8e0dd190575",
+    "ins_nm": "Pemerintah Kab. Lamongan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENYUSUN BUKU BRAILLE DAN BUKU BICARA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LAMONGAN | DINAS SOSIAL | BIDANG PEMBERDAYAAN SOSIAL",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "4500000",
+    "jumlah_ms": 80,
+    "kode_pend": "5102257",
+    "nama_pend": "S-1 AKUTANSI"
+  }
+]

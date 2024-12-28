@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a7ea63a02153",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "IAIN PONTIANAK",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 18,
+    "kode_pend": "7101300",
+    "nama_pend": "S-2 MAGISTER MANAJEMEN"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a3cefef10fad",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "IAKN KUPANG",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 12,
+    "kode_pend": "7101300",
+    "nama_pend": "S-2 MAGISTER MANAJEMEN"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a3dce02f0fd0",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN SYEKH ALI HASAN AHMAD ADDARY PADANGSIDIMPUAN",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 68,
+    "kode_pend": "7101300",
+    "nama_pend": "S-2 MAGISTER MANAJEMEN"
+  },
+  {
+    "formasi_id": "4ae9fc52-30bd-4153-9317-9c47027b0a0b",
+    "ins_nm": "Kementerian Koordinator Bidang Perekonomian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Kementerian Koordinator Bidang Perekonomian | Deputi Bidang Koordinasi Pengembangan Usaha Badan Usaha Milik Negara, Riset dan Inovasi | Asisten Deputi Jasa Keuangan dan Industri Informasi",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "6323614",
+    "gaji_max": "9125673",
+    "jumlah_ms": 238,
+    "kode_pend": "7101300",
+    "nama_pend": "S-2 MAGISTER MANAJEMEN"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a0384ba915598f401915600f5723f50",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS KOMUNIKASI INFORMATIKA PERSANDIAN DAN STATISTIK",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3483500",
+    "gaji_max": "4483500",
+    "jumlah_ms": 4,
+    "kode_pend": "5154038",
+    "nama_pend": "S-1 FILSAFAT AGAMA KRISTEN"
+  },
+  {
+    "formasi_id": "8f0e6065-2391-437d-88a1-3f3dce6f2801",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM (NON OAP)",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS KOMUNIKASI INFORMATIKA PERSANDIAN DAN STATISTIK",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3483500",
+    "gaji_max": "4483500",
+    "jumlah_ms": 7,
+    "kode_pend": "5154038",
+    "nama_pend": "S-1 FILSAFAT AGAMA KRISTEN"
+  }
+]

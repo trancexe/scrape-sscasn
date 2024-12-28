@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "b36d8d85-645b-443e-955b-2dd4c8722e6a",
+    "ins_nm": "Kementerian Koordinator Bidang Perekonomian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR PEMERINTAHAN",
+    "lokasi_nm": "Kementerian Koordinator Bidang Perekonomian | Inspektorat | Subbagian Tata Usaha Inspektorat",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "5321276",
+    "gaji_max": "7938010",
+    "jumlah_ms": 93,
+    "kode_pend": "6202229",
+    "nama_pend": "S-1/D-IV ADMINISTRASI NEGARA"
+  },
+  {
+    "formasi_id": "67a46859-c7c7-4abc-979a-4b60818ac104",
+    "ins_nm": "Pemerintah Kab. Majalengka",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MAJALENGKA | DINAS PERHUBUNGAN | BIDANG PRASARANA LALU LINTAS DAN ANGKUTAN JALAN | SEKSI PENGELOLAAN PERPARKIRAN",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "3175698",
+    "jumlah_ms": 24,
+    "kode_pend": "6202229",
+    "nama_pend": "S-1/D-IV ADMINISTRASI NEGARA"
+  },
+  {
+    "formasi_id": "7741a65e-d0ea-4f66-a0fb-fda7ca272025",
+    "ins_nm": "Pemerintah Kab. Majalengka",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS TRANSPORTASI DARAT",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MAJALENGKA | DINAS PERHUBUNGAN | BIDANG PRASARANA LALU LINTAS DAN ANGKUTAN JALAN | SEKSI PENGELOLAAN PENERANGAN JALAN UMUM",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2785700",
+    "gaji_max": "3175698",
+    "jumlah_ms": 24,
+    "kode_pend": "6202229",
+    "nama_pend": "S-1/D-IV ADMINISTRASI NEGARA"
+  }
+]

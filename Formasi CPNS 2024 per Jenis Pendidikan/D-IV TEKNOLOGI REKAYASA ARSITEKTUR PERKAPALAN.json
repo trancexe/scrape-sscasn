@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "305b7be7-28ec-47fe-a683-746641d05cfd",
+    "ins_nm": "Kementerian Ketenagakerjaan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "Kementerian Ketenagakerjaan | Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas | Balai Pelatihan Vokasi dan Produktivitas Bantaeng",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "7000000",
+    "gaji_max": "8500000",
+    "jumlah_ms": 63,
+    "kode_pend": "5080226",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA ARSITEKTUR PERKAPALAN"
+  },
+  {
+    "formasi_id": "cfa10401-7dfa-4ea7-8ae9-df8af4fcf7e3",
+    "ins_nm": "Pemerintah Kab. Flores Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS INDUSTRI",
+    "lokasi_nm": "Pemerintah Kabupaten Flores Timur | Dinas Perdagangan dan Perindustrian | Bidang Perindustrian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "6000000",
+    "jumlah_ms": 4,
+    "kode_pend": "5080226",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA ARSITEKTUR PERKAPALAN"
+  },
+  {
+    "formasi_id": "e5cb2578-3884-49e7-b670-3add9168b15b",
+    "ins_nm": "Pemerintah Kab. Sanggau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PEMBINA INDUSTRI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SANGGAU | DINAS PERINDUSTRIAN, PERDAGANGAN, KOPERASI DAN USAHA MIKRO KAB. SANGGAU | BIDANG PERINDUSTRIAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3500000",
+    "gaji_max": "4500000",
+    "jumlah_ms": 17,
+    "kode_pend": "5080226",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA ARSITEKTUR PERKAPALAN"
+  },
+  {
+    "formasi_id": "05729e14-5d80-46df-88f4-85bdbb409137",
+    "ins_nm": "Pemerintah Kab. Tanjung Jabung Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAWAS INDUSTRI",
+    "lokasi_nm": "PEMERINTAH KABUPATEN TANJUNG JABUNG TIMUR | DINAS PERINDUSTRIAN DAN PERDAGANGAN | BIDANG PERINDUSTRIAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 3,
+    "kode_pend": "5080226",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA ARSITEKTUR PERKAPALAN"
+  }
+]

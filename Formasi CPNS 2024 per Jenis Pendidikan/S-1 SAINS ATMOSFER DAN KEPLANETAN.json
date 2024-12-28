@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "6d6df079-41fe-449f-a651-eccde141a89c",
+    "ins_nm": "Pemerintah Kab. Cirebon",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENGADAAN BARANG/JASA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN CIREBON | SEKRETARIAT DAERAH | ASISTEN PEREKONOMIAN DAN PEMBANGUNAN | BAGIAN PENGADAAN BARANG DAN JASA | SUB BAGIAN PENGELOLAAN PENGADAAN BARANG DAN JASA",
+    "jumlah_formasi": 7,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 3192,
+    "kode_pend": "5210284",
+    "nama_pend": "S-1 SAINS ATMOSFER DAN KEPLANETAN"
+  },
+  {
+    "formasi_id": "12bcabc9-6d5c-4ad0-ad42-c516ee324032",
+    "ins_nm": "Pemerintah Kab. Magelang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENGADAAN BARANG/JASA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MAGELANG | SEKRETARIAT DAERAH | ASISTEN PEREKONOMIAN DAN PEMBANGUNAN | BAGIAN PENGADAAN BARANG DAN JASA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "2900000",
+    "jumlah_ms": 432,
+    "kode_pend": "5210284",
+    "nama_pend": "S-1 SAINS ATMOSFER DAN KEPLANETAN"
+  },
+  {
+    "formasi_id": "1fefdcc3-c26f-46cb-b0fd-7860cb1e4ffb",
+    "ins_nm": "Pemerintah Kab. Tanjung Jabung Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA PENGADAAN BARANG/JASA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN TANJUNG JABUNG TIMUR | SEKRETARIAT DAERAH | ASISTEN PEREKONOMIAN DAN PEMBANGUNAN | BAGIAN PENGADAAN BARANG DAN JASA",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 141,
+    "kode_pend": "5210284",
+    "nama_pend": "S-1 SAINS ATMOSFER DAN KEPLANETAN"
+  }
+]

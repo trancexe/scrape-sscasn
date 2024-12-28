@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "35d979c5-f3c3-4e02-9bbc-5a8449344452",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Jakarta | Jurusan Teknik Mesin",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 23,
+    "kode_pend": "4417051",
+    "nama_pend": "D-III TEKNIK MESIN PRODUKSI"
+  },
+  {
+    "formasi_id": "5416fc2b-9d91-4569-ac93-5273f5c9166d",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Balikpapan | Jurusan Teknik Mesin",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 8,
+    "kode_pend": "4417051",
+    "nama_pend": "D-III TEKNIK MESIN PRODUKSI"
+  },
+  {
+    "formasi_id": "a69f9500-f1af-4bb0-8165-5c9da19ec235",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Jakarta | Jurusan Teknik Grafika dan Penerbitan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 14,
+    "kode_pend": "4417051",
+    "nama_pend": "D-III TEKNIK MESIN PRODUKSI"
+  }
+]

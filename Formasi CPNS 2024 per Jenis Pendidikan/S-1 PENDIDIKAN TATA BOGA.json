@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a8947196288b",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "GURU AHLI PERTAMA - GURU TATA BOGA",
+    "lokasi_nm": "KANWIL KEMENTERIAN AGAMA PROVINSI JAWA TIMUR",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 63,
+    "kode_pend": "5110551",
+    "nama_pend": "S-1 PENDIDIKAN TATA BOGA"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a87d89042cca",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "GURU AHLI PERTAMA - GURU TATA BOGA",
+    "lokasi_nm": "KANWIL KEMENTERIAN AGAMA PROVINSI JAWA BARAT",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 66,
+    "kode_pend": "5110551",
+    "nama_pend": "S-1 PENDIDIKAN TATA BOGA"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a8ceb1a0300d",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "GURU AHLI PERTAMA - GURU TATA BOGA",
+    "lokasi_nm": "KANWIL KEMENTERIAN AGAMA PROVINSI BANTEN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 5,
+    "kode_pend": "5110551",
+    "nama_pend": "S-1 PENDIDIKAN TATA BOGA"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a903721b32c6",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "GURU AHLI PERTAMA - GURU TATA BOGA",
+    "lokasi_nm": "KANWIL KEMENTERIAN AGAMA PROVINSI SUMATERA BARAT",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 99,
+    "kode_pend": "5110551",
+    "nama_pend": "S-1 PENDIDIKAN TATA BOGA"
+  }
+]

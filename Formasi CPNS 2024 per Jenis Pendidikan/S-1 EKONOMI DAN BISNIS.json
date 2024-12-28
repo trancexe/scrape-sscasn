@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "30157f0f-4146-4908-bcfb-0b16810fcf5a",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG ANALISIS DAN PRODUKSI INTELIJEN | DIREKTORAT ANALISIS EKONOMI | SUB DIREKTORAT INFRASTRUKTUR, INDAKOPUBPARTEL",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 4,
+    "kode_pend": "5101430",
+    "nama_pend": "S-1 EKONOMI DAN BISNIS"
+  },
+  {
+    "formasi_id": "68fc13bf-7129-4315-a49c-76c67d77d507",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN EKONOMI | DIREKTORAT PERENCANAAN PENGENDALIAN KEGIATAN DAN OPERASI | SUB DIREKTORAT ANALISIS DAN EVALUASI",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 2,
+    "kode_pend": "5101430",
+    "nama_pend": "S-1 EKONOMI DAN BISNIS"
+  },
+  {
+    "formasi_id": "aee1743f-a0de-4452-80a0-d9f958f716db",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG ANALISIS DAN PRODUKSI INTELIJEN | DIREKTORAT ANALISIS EKONOMI | SUB DIREKTORAT KEUANGAN DAN PERBANKAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 15,
+    "kode_pend": "5101430",
+    "nama_pend": "S-1 EKONOMI DAN BISNIS"
+  }
+]

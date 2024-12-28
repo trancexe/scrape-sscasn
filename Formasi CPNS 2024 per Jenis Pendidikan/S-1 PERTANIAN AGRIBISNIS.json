@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a03849a9149c64e01914a3fc7132e27",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | DIREKTORAT JENDERAL PERKEBUNAN | SEKRETARIAT DIREKTORAT JENDERAL PERKEBUNAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3743600",
+    "gaji_max": "9078750",
+    "jumlah_ms": 2,
+    "kode_pend": "5191040",
+    "nama_pend": "S-1 PERTANIAN AGRIBISNIS"
+  },
+  {
+    "formasi_id": "162747c9-bf5a-4b2f-910c-2513e7f54de9",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | BALAI PELATIHAN PERTANIAN JAMBI",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 248,
+    "kode_pend": "5191040",
+    "nama_pend": "S-1 PERTANIAN AGRIBISNIS"
+  },
+  {
+    "formasi_id": "1ff34e1b-623f-45e8-a161-d48ad61df7bd",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | DIREKTORAT JENDERAL PERKEBUNAN | SEKRETARIAT DIREKTORAT JENDERAL PERKEBUNAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "3743600",
+    "gaji_max": "9078750",
+    "jumlah_ms": 65,
+    "kode_pend": "5191040",
+    "nama_pend": "S-1 PERTANIAN AGRIBISNIS"
+  },
+  {
+    "formasi_id": "58ef6c1a-78fc-47e1-8c78-7cd3f01fdccc",
+    "ins_nm": "Pemerintah Kab. Simalungun",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "FASILITATOR PENERAPAN STANDAR DAN PENILAIAN KESESUAIAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SIMALUNGUN | DINAS KETAHANAN PANGAN DAN PERIKANAN | BIDANG KONSUMSI DAN KEAMANAN PANGAN",
+    "jumlah_formasi": 4,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6000000",
+    "jumlah_ms": 266,
+    "kode_pend": "5191040",
+    "nama_pend": "S-1 PERTANIAN AGRIBISNIS"
+  }
+]

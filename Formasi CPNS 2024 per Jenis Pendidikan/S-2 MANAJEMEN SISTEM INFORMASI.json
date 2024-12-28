@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a75584e51962",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN SJECH M DJAMIL DJAMBEK BUKITTINGGI",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 4,
+    "kode_pend": "7101396",
+    "nama_pend": "S-2 MANAJEMEN SISTEM INFORMASI"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a85e3ca42b01",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN SULTHAN THAHA SAIFUDDIN JAMBI",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 4,
+    "kode_pend": "7101396",
+    "nama_pend": "S-2 MANAJEMEN SISTEM INFORMASI"
+  }
+]

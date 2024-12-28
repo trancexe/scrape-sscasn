@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "225e2e80-4e06-4667-a9b7-1829e6858db5",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BALAI PERIKANAN BUDI DAYA AIR TAWAR TRINSING | SUBBAGIAN TATA USAHA BALAI PERIKANAN BUDI DAYA AIR TAWAR TRINSING",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 41,
+    "kode_pend": "3190096",
+    "nama_pend": "SUPM TEKNOLOGI PENANGKAPAN IKAN"
+  },
+  {
+    "formasi_id": "a18e99a9-396f-4807-aae4-fe1b8f66d8be",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BIDANG PENANGKAPAN, KELEMBAGAAN, MUTU DAN PEMASARAN HASIL PERIKANAN",
+    "jumlah_formasi": 13,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 13,
+    "kode_pend": "3190096",
+    "nama_pend": "SUPM TEKNOLOGI PENANGKAPAN IKAN"
+  },
+  {
+    "formasi_id": "19cfbdba-2248-4769-a855-dcca7763f353",
+    "ins_nm": "Pemerintah Kab. Kepulauan Tanimbar",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "KABUPATEN KEPULAUAN TANIMBAR | DINAS PERIKANAN | BIDANG USAHA PERIKANAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "1000000",
+    "gaji_max": "2184000",
+    "jumlah_ms": 9,
+    "kode_pend": "3190096",
+    "nama_pend": "SUPM TEKNOLOGI PENANGKAPAN IKAN"
+  },
+  {
+    "formasi_id": "e36974ec-be9f-4d2b-8570-0578a6c18c7f",
+    "ins_nm": "Pemerintah Kab. Seluma",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SELUMA | DINAS PERIKANAN | BIDANG PERIKANAN TANGKAP",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2900000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 19,
+    "kode_pend": "3190096",
+    "nama_pend": "SUPM TEKNOLOGI PENANGKAPAN IKAN"
+  }
+]

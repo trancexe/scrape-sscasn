@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "17cd4ba0-c4e6-4a5a-99b5-5de575846f39",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "KELASI KAPAL KELAS I",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | DIREKTORAT JENDERAL PENGAWASAN SUMBER DAYA KELAUTAN DAN PERIKANAN | DIREKTORAT PENGENDALIAN OPERASI ARMADA",
+    "jumlah_formasi": 15,
+    "disable": 0,
+    "gaji_min": "5600000",
+    "gaji_max": "5900000",
+    "jumlah_ms": 71,
+    "kode_pend": "3190089",
+    "nama_pend": "SUPM NAUTIKA PERIKANAN"
+  },
+  {
+    "formasi_id": "8a0384b4915028740191517467a341be",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "KELASI KAPAL KELAS II",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | DIREKTORAT JENDERAL PENGAWASAN SUMBER DAYA KELAUTAN DAN PERIKANAN",
+    "jumlah_formasi": 5,
+    "disable": 0,
+    "gaji_min": "5600000",
+    "gaji_max": "5900000",
+    "jumlah_ms": 7,
+    "kode_pend": "3190089",
+    "nama_pend": "SUPM NAUTIKA PERIKANAN"
+  },
+  {
+    "formasi_id": "8a0384b49150287401915180dad343a7",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "KELASI KAPAL KELAS IV",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | DIREKTORAT JENDERAL PENGAWASAN SUMBER DAYA KELAUTAN DAN PERIKANAN",
+    "jumlah_formasi": 12,
+    "disable": 0,
+    "gaji_min": "5600000",
+    "gaji_max": "5900000",
+    "jumlah_ms": 28,
+    "kode_pend": "3190089",
+    "nama_pend": "SUPM NAUTIKA PERIKANAN"
+  },
+  {
+    "formasi_id": "8a0384b4915028740191518253bd43f2",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "KELASI KAPAL KELAS IV",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | DIREKTORAT JENDERAL PENGAWASAN SUMBER DAYA KELAUTAN DAN PERIKANAN (B)",
+    "jumlah_formasi": 8,
+    "disable": 0,
+    "gaji_min": "5900000",
+    "gaji_max": "6100000",
+    "jumlah_ms": 11,
+    "kode_pend": "3190089",
+    "nama_pend": "SUPM NAUTIKA PERIKANAN"
+  }
+]

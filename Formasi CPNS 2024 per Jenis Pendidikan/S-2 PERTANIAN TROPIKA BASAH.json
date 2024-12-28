@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a67ce1e50a6b",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN SAYYID ALI RAHMATULLAH TULUNGAGUNG",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 5,
+    "kode_pend": "7100349",
+    "nama_pend": "S-2 PERTANIAN TROPIKA BASAH"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7100349",
+    "nama_pend": "S-2 PERTANIAN TROPIKA BASAH"
+  },
+  {
+    "formasi_id": "0f25a6be-f40b-4c3f-885e-4e09b19f1abf",
+    "ins_nm": "Pemerintah Provinsi Kalimantan Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "WIDYAISWARA AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROPINSI KALIMANTAN TIMUR | SEKRETARIAT DAERAH | DINAS PANGAN, TANAMAN PANGAN DAN HORTIKULTURA | UPT BALAI PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA | SEKSI PENGEMBANGAN SUMBER DAYA MANUSIA",
+    "jumlah_formasi": 4,
+    "disable": 1,
+    "gaji_min": "10000000",
+    "gaji_max": "20000000",
+    "jumlah_ms": 50,
+    "kode_pend": "7100349",
+    "nama_pend": "S-2 PERTANIAN TROPIKA BASAH"
+  }
+]

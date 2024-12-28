@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "7c1250f9-35c9-41da-bbd1-453ddef106b4",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG ANALISIS DAN PRODUKSI INTELIJEN | DIREKTORAT ANALISIS LUAR NEGERI | SUB DIREKTORAT ASIA TENGGARA, ASIA TENGAH DAN ASIA SELATAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 3,
+    "kode_pend": "5100637",
+    "nama_pend": "S-1 SASTRA ASING"
+  },
+  {
+    "formasi_id": "f7117908-c0c2-4766-a5ff-eb1f44eb162d",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG ANALISIS DAN PRODUKSI INTELIJEN | DIREKTORAT ANALISIS LUAR NEGERI | SUB DIREKTORAT AFRIKA DAN TIMUR TENGAH",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 3,
+    "kode_pend": "5100637",
+    "nama_pend": "S-1 SASTRA ASING"
+  }
+]

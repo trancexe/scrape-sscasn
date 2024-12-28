@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "8da91b4f-6931-495a-8ba0-f08b2ce8e3f0",
+    "ins_nm": "Pemerintah Kab. Labuhanbatu",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "Kabupaten Labuhanbatu | Dinas Kelautan dan Perikanan | Bidang Pengembangan Usaha",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 51,
+    "kode_pend": "5191185",
+    "nama_pend": "S-1 NUTRISI DAN MAKANAN TERNAK"
+  },
+  {
+    "formasi_id": "88e1501b-ce65-42c1-90ab-dce8a3d2eb3c",
+    "ins_nm": "Pemerintah Kab. Manggarai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MANGGARAI TIMUR | DINAS KETAHANAN PANGAN DAN PERIKANAN | Bidang Pengelolaan Perikanan Tangkap",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3500000",
+    "jumlah_ms": 54,
+    "kode_pend": "5191185",
+    "nama_pend": "S-1 NUTRISI DAN MAKANAN TERNAK"
+  }
+]

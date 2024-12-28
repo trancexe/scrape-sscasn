@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "151deee2-af13-4e27-9db8-434b096fe6f1",
+    "ins_nm": "Kementerian Energi dan Sumber Daya Mineral",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN ENERGI DAN SUMBER DAYA MINERAL | Badan Pengembangan Sumber Daya Manusia Energi dan Sumber Daya Mineral | Pusat Pengembangan Sumber Daya Manusia Geologi, Mineral dan Batubara",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "7500000",
+    "gaji_max": "8000000",
+    "jumlah_ms": 65,
+    "kode_pend": "4470166",
+    "nama_pend": "D-III TEKNIK PERTAMBANGAN"
+  },
+  {
+    "formasi_id": "43927a5e-9b21-42f2-8573-442acbdecb3c",
+    "ins_nm": "Kementerian Energi dan Sumber Daya Mineral",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN ENERGI DAN SUMBER DAYA MINERAL | Badan Pengembangan Sumber Daya Manusia Energi dan Sumber Daya Mineral | Sekretariat Badan Pengembangan Sumber Daya Manusia Energi dan Sumber Daya Mineral | Balai Pendidikan dan Pelatihan Tambang Bawah Tanah",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "7600000",
+    "gaji_max": "8200000",
+    "jumlah_ms": 148,
+    "kode_pend": "4470166",
+    "nama_pend": "D-III TEKNIK PERTAMBANGAN"
+  },
+  {
+    "formasi_id": "8a0384ba915598f40191560a49f649a5",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "2708200",
+    "gaji_max": "3708200",
+    "jumlah_ms": 27,
+    "kode_pend": "4470166",
+    "nama_pend": "D-III TEKNIK PERTAMBANGAN"
+  },
+  {
+    "formasi_id": "9138079b-8651-4eb1-93f0-dd31c2d2c676",
+    "ins_nm": "Pemerintah Provinsi Papua Barat Daya",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM (NON OAP)",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "PEMERINTAH PROVINSI PAPUA BARAT DAYA | DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2708200",
+    "gaji_max": "3708200",
+    "jumlah_ms": 5,
+    "kode_pend": "4470166",
+    "nama_pend": "D-III TEKNIK PERTAMBANGAN"
+  }
+]

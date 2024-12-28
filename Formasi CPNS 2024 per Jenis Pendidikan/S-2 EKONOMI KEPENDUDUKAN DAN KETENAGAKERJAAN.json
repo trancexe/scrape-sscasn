@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "ba9bbd7b-3a35-49b9-a611-ff0ef2409320",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Jambi | Fakultas Pertanian | Jurusan Agribisnis, Fakultas Pertanian | Prodi S1 Agribisnis, Fakultas Pertanian",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 2,
+    "kode_pend": "7103908",
+    "nama_pend": "S-2 EKONOMI KEPENDUDUKAN DAN KETENAGAKERJAAN"
+  },
+  {
+    "formasi_id": "c42af614-1391-4327-9d7e-87bb1385cb90",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Sriwijaya | Fakultas Ekonomi | Jurusan Ekonomi Pembangunan Fakultas Ekonomi | Program Studi S1 Ekonomi Pembangunan Jurusan Ekonomi Pembangunan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 2,
+    "kode_pend": "7103908",
+    "nama_pend": "S-2 EKONOMI KEPENDUDUKAN DAN KETENAGAKERJAAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7103908",
+    "nama_pend": "S-2 EKONOMI KEPENDUDUKAN DAN KETENAGAKERJAAN"
+  },
+  {
+    "formasi_id": "52f93f9d-f07b-44f4-b6d9-3b8cec098e79",
+    "ins_nm": "Pemerintah Provinsi Sumatera Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI SUMATERA UTARA | BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN. | BIDANG RISET DAN INOVASI",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2322880",
+    "gaji_max": "2555168",
+    "jumlah_ms": 13,
+    "kode_pend": "7103908",
+    "nama_pend": "S-2 EKONOMI KEPENDUDUKAN DAN KETENAGAKERJAAN"
+  }
+]

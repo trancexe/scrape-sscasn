@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8c2ded2b-ea87-432c-a924-6cb2fa2c54ec",
+    "ins_nm": "Pemerintah Kab. Halmahera Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS PEMBIAYAAN INFRASTRUKTUR PEKERJAAN UMUM DAN PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KAB. HALMAHERA TIMUR | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | BIDANG PEMBANGUNAN JALAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 0,
+    "kode_pend": "5000203",
+    "nama_pend": "D-IV AKUNTANSI KEUANGAN"
+  },
+  {
+    "formasi_id": "da91da7a-e7b9-43b9-9f26-5d230f7deb38",
+    "ins_nm": "Pemerintah Kab. Halmahera Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS PEMBIAYAAN INFRASTRUKTUR PEKERJAAN UMUM DAN PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KAB. HALMAHERA TIMUR | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | BIDANG PENATAAN RUANG",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "4575200",
+    "jumlah_ms": 5,
+    "kode_pend": "5000203",
+    "nama_pend": "D-IV AKUNTANSI KEUANGAN"
+  },
+  {
+    "formasi_id": "a618d438-c725-4fd5-83bd-b2c858f1b2f8",
+    "ins_nm": "Pemerintah Kab. Nduga",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "ANALIS PEMBIAYAAN INFRASTRUKTUR PEKERJAAN UMUM DAN PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN NDUGA | DINAS PEKERJAAN UMUM | SEKRETARIAT DINAS PEKERJAAN UMUM | Sub Bagian Penyusunan Program dan Pelaporan",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2900000",
+    "gaji_max": "3800000",
+    "jumlah_ms": 31,
+    "kode_pend": "5000203",
+    "nama_pend": "D-IV AKUNTANSI KEUANGAN"
+  },
+  {
+    "formasi_id": "c5d1b725-8910-4573-9f22-a0af7b794c76",
+    "ins_nm": "Pemerintah Kab. Sumba Tengah",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS PEMBIAYAAN INFRASTRUKTUR PEKERJAAN UMUM DAN PERUMAHAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SUMBA TENGAH | SEKRETARIAT DAERAH | DINAS PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | BIDANG BINA KONSTRUKSI",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "5000000",
+    "jumlah_ms": 96,
+    "kode_pend": "5000203",
+    "nama_pend": "D-IV AKUNTANSI KEUANGAN"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "088c3cac-c8c5-4775-b322-21dfcfdbcdd2",
+    "ins_nm": "Badan Pelindungan Pekerja Migran Indonesia",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Badan Pelindungan Pekerja Migran Indonesia | DEPUTI BIDANG PENEMPATAN DAN PELINDUNGAN KAWASAN EROPA DAN TIMUR TENGAH | DIREKTORAT SISTEM DAN STRATEGI PENEMPATAN DAN PELINDUNGAN KAWASAN EROPA DAN TIMUR TENGAH",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "6862100",
+    "gaji_max": "7746358",
+    "jumlah_ms": 311,
+    "kode_pend": "5210222",
+    "nama_pend": "S-1 KAJIAN BUGIS"
+  },
+  {
+    "formasi_id": "7980e585-a33e-4fb1-9fcc-bff894a56310",
+    "ins_nm": "Badan Pelindungan Pekerja Migran Indonesia",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Badan Pelindungan Pekerja Migran Indonesia | DEPUTI BIDANG PENEMPATAN DAN PELINDUNGAN KAWASAN ASIA DAN AFRIKA | DIREKTORAT SISTEM DAN STRATEGI PENEMPATAN DAN PELINDUNGAN KAWASAN ASIA DAN AFRIKA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "6862100",
+    "gaji_max": "7746358",
+    "jumlah_ms": 51,
+    "kode_pend": "5210222",
+    "nama_pend": "S-1 KAJIAN BUGIS"
+  },
+  {
+    "formasi_id": "8a0384c5915a83e001915a86649f01ec",
+    "ins_nm": "Pemerintah Kab. Sidenreng Rappang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Sidenreng Rappang | Dinas Pendidikan dan Kebudayaan | Bidang  Pembinaan Pendidikan Dasar",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3043200",
+    "gaji_max": "3650400",
+    "jumlah_ms": 1,
+    "kode_pend": "5210222",
+    "nama_pend": "S-1 KAJIAN BUGIS"
+  },
+  {
+    "formasi_id": "34814e6b-94d2-4d1a-8d3a-9dc0b95ea33c",
+    "ins_nm": "Pemerintah Kab. Sidenreng Rappang",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Sidenreng Rappang | Dinas Pendidikan dan Kebudayaan | Bidang  Pembinaan Pendidikan Dasar",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "3043200",
+    "gaji_max": "3650400",
+    "jumlah_ms": 469,
+    "kode_pend": "5210222",
+    "nama_pend": "S-1 KAJIAN BUGIS"
+  }
+]

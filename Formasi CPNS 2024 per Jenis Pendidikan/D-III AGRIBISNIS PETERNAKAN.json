@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "00c74322-5eb2-4c31-848b-f7256b2daec7",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Pertanian Negeri Pangkajene Kepulauan | Jurusan Peternakan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 0,
+    "kode_pend": "4415027",
+    "nama_pend": "D-III AGRIBISNIS PETERNAKAN"
+  },
+  {
+    "formasi_id": "5f49d8b4-5ae9-4279-ad6f-0c3a59183d69",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Nusa Cendana | Fakultas Peternakan, Kelautan, dan Perikanan",
+    "jumlah_formasi": 4,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 10,
+    "kode_pend": "4415027",
+    "nama_pend": "D-III AGRIBISNIS PETERNAKAN"
+  }
+]

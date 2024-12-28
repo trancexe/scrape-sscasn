@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "d6be85c3-3041-4512-b4fd-7832f86abe41",
+    "ins_nm": "Pemerintah Kab. Blora",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Blora | Badan Perencanaan Pembangunan Daerah | Bidang Penelitian dan Pengembangan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2903600",
+    "gaji_max": "2903600",
+    "jumlah_ms": 13,
+    "kode_pend": "7199651",
+    "nama_pend": "S-2 PARASITOLOGI DAN ENTOMOLOGI KESEHATAN"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7199651",
+    "nama_pend": "S-2 PARASITOLOGI DAN ENTOMOLOGI KESEHATAN"
+  }
+]

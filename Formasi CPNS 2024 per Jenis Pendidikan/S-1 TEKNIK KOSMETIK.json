@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a03849e914e425501914e84aaf907d4",
+    "ins_nm": "Pemerintah Kab. Blora",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Blora | Dinas Perindustrian Dan Tenaga Kerja | UPTD Balai Latihan Kerja",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "2785700",
+    "jumlah_ms": 0,
+    "kode_pend": "5210307",
+    "nama_pend": "S-1 TEKNIK KOSMETIK"
+  },
+  {
+    "formasi_id": "f3982c43-38d7-4002-ae6e-ef4b36c2854f",
+    "ins_nm": "Pemerintah Kab. Blora",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Blora | Dinas Perindustrian Dan Tenaga Kerja | UPTD Balai Latihan Kerja",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "2785700",
+    "jumlah_ms": 7,
+    "kode_pend": "5210307",
+    "nama_pend": "S-1 TEKNIK KOSMETIK"
+  },
+  {
+    "formasi_id": "780791c9-eedf-4b5d-9c1b-27c0bd17b7be",
+    "ins_nm": "Pemerintah Kab. Kebumen",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "INSTRUKTUR AHLI PERTAMA",
+    "lokasi_nm": "Pemerintah Kabupaten Kebumen | Dinas Tenaga Kerja | Bidang Pelatihan, Produktivitas dan Hubungan Industrial",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2228560",
+    "gaji_max": "3208235",
+    "jumlah_ms": 39,
+    "kode_pend": "5210307",
+    "nama_pend": "S-1 TEKNIK KOSMETIK"
+  }
+]

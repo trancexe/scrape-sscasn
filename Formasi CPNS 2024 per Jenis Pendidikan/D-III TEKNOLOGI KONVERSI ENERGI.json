@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "d90c5d66-6d9d-4fe5-8398-e4b75d8308a2",
+    "ins_nm": "Pemerintah Kab. Polewali Mandar",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA BANGUNAN GEDUNG DAN PERMUKIMAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN POLEWALI MANDAR | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG | BIDANG CIPTA KARYA",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3958200",
+    "jumlah_ms": 28,
+    "kode_pend": "4480176",
+    "nama_pend": "D-III TEKNOLOGI KONVERSI ENERGI"
+  },
+  {
+    "formasi_id": "b3671af0-5cfc-44dd-83e3-62ca1ed9cb42",
+    "ins_nm": "Pemerintah Kab. Tebo",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA LAKSANA BANGUNAN GEDUNG DAN KAWASAN PERMUKIMAN TERAMPIL",
+    "lokasi_nm": "Pemerintah Kabupaten Tebo | Dinas Pekerjaan Umum dan Penataan Ruang | Bidang Cipta Karya",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3124000",
+    "jumlah_ms": 10,
+    "kode_pend": "4480176",
+    "nama_pend": "D-III TEKNOLOGI KONVERSI ENERGI"
+  }
+]

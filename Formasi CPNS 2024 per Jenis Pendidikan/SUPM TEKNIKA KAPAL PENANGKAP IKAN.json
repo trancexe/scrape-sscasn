@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "84bd9735-117b-46fb-b956-a3cde3e97c5a",
+    "ins_nm": "Kementerian Kelautan dan Perikanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "JURU MINYAK KAPAL KELAS II",
+    "lokasi_nm": "KEMENTERIAN KELAUTAN DAN PERIKANAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA KELAUTAN DAN PERIKANAN | BALAI PELATIHAN DAN PENYULUHAN PERIKANAN AMBON",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "5600000",
+    "gaji_max": "5900000",
+    "jumlah_ms": 16,
+    "kode_pend": "3190094",
+    "nama_pend": "SUPM TEKNIKA KAPAL PENANGKAP IKAN"
+  },
+  {
+    "formasi_id": "225e2e80-4e06-4667-a9b7-1829e6858db5",
+    "ins_nm": "Pemerintah Kab. Barito Utara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA SARANA DAN PRASARANA KELAUTAN DAN PERIKANAN",
+    "lokasi_nm": "PEMERINTAH KABUPATEN BARITO UTARA | DINAS KETAHANAN PANGAN DAN PERIKANAN | BALAI PERIKANAN BUDI DAYA AIR TAWAR TRINSING | SUBBAGIAN TATA USAHA BALAI PERIKANAN BUDI DAYA AIR TAWAR TRINSING",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 41,
+    "kode_pend": "3190094",
+    "nama_pend": "SUPM TEKNIKA KAPAL PENANGKAP IKAN"
+  }
+]

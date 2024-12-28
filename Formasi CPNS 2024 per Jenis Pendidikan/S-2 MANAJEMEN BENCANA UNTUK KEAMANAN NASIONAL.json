@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "43738ab9-a03c-436e-97a2-ba95af433be9",
+    "ins_nm": "Badan Meteorologi, Klimatologi dan Geofisika",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGAMAT METEOROLOGI DAN GEOFISIKA AHLI PERTAMA",
+    "lokasi_nm": "Badan Meteorologi Klimatologi dan Geofisika | Deputi Bidang Meteorologi | Pusat Meteorologi Publik",
+    "jumlah_formasi": 4,
+    "disable": 0,
+    "gaji_min": "5500000",
+    "gaji_max": "8500000",
+    "jumlah_ms": 14,
+    "kode_pend": "9940681",
+    "nama_pend": "S-2 MANAJEMEN BENCANA UNTUK KEAMANAN NASIONAL"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "9940681",
+    "nama_pend": "S-2 MANAJEMEN BENCANA UNTUK KEAMANAN NASIONAL"
+  }
+]

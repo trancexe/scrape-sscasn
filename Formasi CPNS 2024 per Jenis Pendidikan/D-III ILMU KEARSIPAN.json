@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "d60e58e8-dcd6-4647-aff5-e7bfd53e0a68",
+    "ins_nm": "Kementerian Kesehatan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "Kementerian Kesehatan | Direktorat Jenderal Tenaga Kesehatan | Balai Pelatihan Kesehatan Mataram | Subbagian Administrasi Umum",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "5000000",
+    "gaji_max": "7000000",
+    "jumlah_ms": 3,
+    "kode_pend": "4100015",
+    "nama_pend": "D-III ILMU KEARSIPAN"
+  },
+  {
+    "formasi_id": "8e4d74f0-a7dd-4dfc-b544-a403a4956c19",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | BALAI BESAR PELATIHAN PETERNAKAN KUPANG",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2845944",
+    "gaji_max": "7056344",
+    "jumlah_ms": 1,
+    "kode_pend": "4100015",
+    "nama_pend": "D-III ILMU KEARSIPAN"
+  },
+  {
+    "formasi_id": "b135c4fd-b699-477e-8cf5-b3432f21396e",
+    "ins_nm": "Pemerintah Kota Cimahi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "PEMERINTAH DAERAH KOTA CIMAHI | Dinas Pendidikan",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3797500",
+    "jumlah_ms": 0,
+    "kode_pend": "4100015",
+    "nama_pend": "D-III ILMU KEARSIPAN"
+  },
+  {
+    "formasi_id": "c8eb897e-b6f8-4672-8b9c-56be6501a6c2",
+    "ins_nm": "Pemerintah Kota Cimahi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ARSIPARIS TERAMPIL",
+    "lokasi_nm": "PEMERINTAH DAERAH KOTA CIMAHI | Dinas Perumahan dan Kawasan Permukiman",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2485900",
+    "gaji_max": "3797500",
+    "jumlah_ms": 0,
+    "kode_pend": "4100015",
+    "nama_pend": "D-III ILMU KEARSIPAN"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a03849f914ed85101914f27cb037c4f",
+    "ins_nm": "Kementerian Komunikasi dan Informatika",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PUTRA/PUTRI KALIMANTAN",
+    "jabatan_nm": "PRANATA SIARAN AHLI PERTAMA",
+    "lokasi_nm": "LEMBAGA PENYIARAN PUBLIK RADIO REPUBLIK INDONESIA | DIREKTUR UTAMA LPP RRI | DIREKTORAT PROGRAM DAN PRODUKSI",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "5000000",
+    "gaji_max": "5712700",
+    "jumlah_ms": 21,
+    "kode_pend": "5193534",
+    "nama_pend": "S-1 KESEHATAN MASYARAKAT JURUSAN EPIDEMIOLOGI"
+  },
+  {
+    "formasi_id": "64484105-9d5a-4458-a38e-bfb6d1de3b98",
+    "ins_nm": "Kementerian Komunikasi dan Informatika",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA SIARAN AHLI PERTAMA",
+    "lokasi_nm": "LEMBAGA PENYIARAN PUBLIK RADIO REPUBLIK INDONESIA | DIREKTUR UTAMA LPP RRI | DIREKTORAT PROGRAM DAN PRODUKSI",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "5000000",
+    "gaji_max": "5712700",
+    "jumlah_ms": 29,
+    "kode_pend": "5193534",
+    "nama_pend": "S-1 KESEHATAN MASYARAKAT JURUSAN EPIDEMIOLOGI"
+  },
+  {
+    "formasi_id": "ee910eda-e31c-4845-a74e-7eae0303f711",
+    "ins_nm": "Kementerian Komunikasi dan Informatika",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA SIARAN AHLI PERTAMA",
+    "lokasi_nm": "LEMBAGA PENYIARAN PUBLIK RADIO REPUBLIK INDONESIA | DIREKTUR UTAMA LPP RRI | PUSAT PEMBERITAAN",
+    "jumlah_formasi": 11,
+    "disable": 1,
+    "gaji_min": "5000000",
+    "gaji_max": "5712700",
+    "jumlah_ms": 729,
+    "kode_pend": "5193534",
+    "nama_pend": "S-1 KESEHATAN MASYARAKAT JURUSAN EPIDEMIOLOGI"
+  }
+]

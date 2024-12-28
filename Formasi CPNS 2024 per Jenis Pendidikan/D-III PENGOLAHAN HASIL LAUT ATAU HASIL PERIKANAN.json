@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0186ce915e61b701915f1f66cb3403",
+    "ins_nm": "Pemerintah Kab. Biak Numfor",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PENGUJI MUTU BARANG TERAMPIL",
+    "lokasi_nm": "Pemerintah Kabupaten Biak Numfor | Dinas Perindustrian dan Perdagangan | UPTD Metereologi | Kelompok Jabatan Fungsional",
+    "jumlah_formasi": 4,
+    "disable": 0,
+    "gaji_min": "2800000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 8,
+    "kode_pend": "4480031",
+    "nama_pend": "D-III PENGOLAHAN HASIL LAUT ATAU HASIL PERIKANAN"
+  },
+  {
+    "formasi_id": "fbf4ef50-8773-4910-8995-f2cbd49622a5",
+    "ins_nm": "Pemerintah Kab. Biak Numfor",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM (NON OAP)",
+    "jabatan_nm": "PENGUJI MUTU BARANG TERAMPIL",
+    "lokasi_nm": "Pemerintah Kabupaten Biak Numfor | Dinas Perindustrian dan Perdagangan | UPTD Metereologi | Kelompok Jabatan Fungsional",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "2800000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 1,
+    "kode_pend": "4480031",
+    "nama_pend": "D-III PENGOLAHAN HASIL LAUT ATAU HASIL PERIKANAN"
+  },
+  {
+    "formasi_id": "0fc80f5d-a228-45f7-abbd-37cbd30cf090",
+    "ins_nm": "Pemerintah Kab. Kepulauan Tanimbar",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGUJI MUTU BARANG TERAMPIL",
+    "lokasi_nm": "KABUPATEN KEPULAUAN TANIMBAR | DINAS PERINDUSTRIAN, PERDAGANGAN DAN TENAGA KERJA | Bidang Perindustrian",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "1000000",
+    "gaji_max": "2485900",
+    "jumlah_ms": 0,
+    "kode_pend": "4480031",
+    "nama_pend": "D-III PENGOLAHAN HASIL LAUT ATAU HASIL PERIKANAN"
+  },
+  {
+    "formasi_id": "16d39a4f-ce15-4a11-8ca7-b0fe9013abd9",
+    "ins_nm": "Pemerintah Kab. Maluku Tenggara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGUJI MUTU BARANG TERAMPIL",
+    "lokasi_nm": "PEMERINTAH KABUPATEN MALUKU TENGGARA | DINAS PERINDUSTRIAN PERDAGANGAN DAN KETENAGAKERJAAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2000000",
+    "gaji_max": "4000000",
+    "jumlah_ms": 7,
+    "kode_pend": "4480031",
+    "nama_pend": "D-III PENGOLAHAN HASIL LAUT ATAU HASIL PERIKANAN"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a028487919cdb310191a676ef890a43",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN WALISONGO SEMARANG",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 0,
+    "kode_pend": "7199364",
+    "nama_pend": "S-2 TEKNIK SIPIL DAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "4a75bd79-3048-4e54-a604-3cc95eb8c137",
+    "ins_nm": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | Badan Pengembangan Sumber Daya Manusia | Politeknik Pekerjaan Umum | Prodi D-III Teknologi Konstruksi Jalan dan Jembatan",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "10800000",
+    "gaji_max": "11400000",
+    "jumlah_ms": 56,
+    "kode_pend": "7199364",
+    "nama_pend": "S-2 TEKNIK SIPIL DAN LINGKUNGAN"
+  },
+  {
+    "formasi_id": "f9bd0d14-80c6-41f5-a3df-afd084a528b0",
+    "ins_nm": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | Badan Pengembangan Sumber Daya Manusia | Politeknik Pekerjaan Umum | Prodi D-III teknologi Konstruksi Bangunan Gedung",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "10800000",
+    "gaji_max": "11400000",
+    "jumlah_ms": 80,
+    "kode_pend": "7199364",
+    "nama_pend": "S-2 TEKNIK SIPIL DAN LINGKUNGAN"
+  }
+]

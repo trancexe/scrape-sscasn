@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "4452a64a-68cf-4f42-87a5-17d05efca361",
+    "ins_nm": "Badan Keamanan Laut RI",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "KERANI KAPAL KELAS I",
+    "lokasi_nm": "BADAN KEAMANAN LAUT | KANTOR KEAMANAN LAUT ZONA MARITIM TIMUR | BIDANG OPERASI | SUB BIDANG PATROLI KEAMANAN LAUT | KN PULAU DANA-323",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "5000000",
+    "gaji_max": "7000000",
+    "jumlah_ms": 8,
+    "kode_pend": "3110017",
+    "nama_pend": "SMK NAUTIKA"
+  },
+  {
+    "formasi_id": "eace9260-a442-49b6-ac6a-d5010999f0ab",
+    "ins_nm": "Pemerintah Kab. Jepara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "KELASI KAPAL KELAS V",
+    "lokasi_nm": "PEMERINTAH KABUPATEN JEPARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN LAUT | SEKSI KEPELABUHAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2000000",
+    "gaji_max": "6000000",
+    "jumlah_ms": 25,
+    "kode_pend": "3110017",
+    "nama_pend": "SMK NAUTIKA"
+  },
+  {
+    "formasi_id": "f887f338-dc44-4ba1-8015-79fc4a92847e",
+    "ins_nm": "Pemerintah Kab. Jepara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "NAKHODA KAPAL KELAS V",
+    "lokasi_nm": "PEMERINTAH KABUPATEN JEPARA | DINAS PERHUBUNGAN | BIDANG PERHUBUNGAN LAUT | SEKSI KEPELABUHAN",
+    "jumlah_formasi": 2,
+    "disable": 0,
+    "gaji_min": "2000000",
+    "gaji_max": "6000000",
+    "jumlah_ms": 4,
+    "kode_pend": "3110017",
+    "nama_pend": "SMK NAUTIKA"
+  }
+]

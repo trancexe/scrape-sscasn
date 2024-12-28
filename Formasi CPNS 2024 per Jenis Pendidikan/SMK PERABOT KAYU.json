@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "1b781b31-58ff-42ca-9100-034c0d05f5ae",
+    "ins_nm": "Pemerintah Kab. Paniai",
+    "jp_nama": "CPNS",
+    "formasi_nm": "ORANG ASLI PAPUA (OAP)",
+    "jabatan_nm": "PENATA LAKSANA BANGUNAN GEDUNG DAN KAWASAN PERMUKIMAN PEMULA",
+    "lokasi_nm": "Pemerintah Kabupaten Paniai | DINAS PERUMAHAN DAN KAWASAN PERMUKIMAN | BIDANG KAWASAN PEMUKIMAN | Seksi Penataan Kawasan Pemukiman",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "2500000",
+    "gaji_max": "3000000",
+    "jumlah_ms": 64,
+    "kode_pend": "3190034",
+    "nama_pend": "SMK PERABOT KAYU"
+  },
+  {
+    "formasi_id": "1044405d-15ce-4f87-92e0-58f9eea2d530",
+    "ins_nm": "Pemerintah Kab. Sumba Tengah",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA LAKSANA BANGUNAN GEDUNG DAN KAWASAN PERMUKIMAN PEMULA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SUMBA TENGAH | SEKRETARIAT DAERAH | DINAS PEKERJAAN UMUM DAN PERUMAHAN RAKYAT | BIDANG PERUMAHAN DAN KAWASAN PERMUKIMAN",
+    "jumlah_formasi": 9,
+    "disable": 1,
+    "gaji_min": "1500000",
+    "gaji_max": "3000000",
+    "jumlah_ms": 156,
+    "kode_pend": "3190034",
+    "nama_pend": "SMK PERABOT KAYU"
+  }
+]

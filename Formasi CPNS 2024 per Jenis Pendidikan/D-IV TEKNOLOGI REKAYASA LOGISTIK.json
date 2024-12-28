@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "8a51ce48-8cde-49df-a5d7-a5d29db20be6",
+    "ins_nm": "Pemerintah Kab. Sanggau",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGELOLA SUMBER DAYA AIR AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN SANGGAU | DINAS PEKERJAAN UMUM DAN PENATAAN RUANG KABUPATEN SANGGAU | BIDANG SUMBER DAYA AIR",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3500000",
+    "gaji_max": "4500000",
+    "jumlah_ms": 49,
+    "kode_pend": "5080242",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA LOGISTIK"
+  },
+  {
+    "formasi_id": "44157364-434d-4986-b788-62152ad0d7c4",
+    "ins_nm": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI DKI JAKARTA | DINAS PERHUBUNGAN | BIDANG ANGKUTAN JALAN DINAS PERHUBUNGAN | SEKSI ANGKUTAN BARANG DAN KENDARAAN TIDAK BERMOTOR DINAS PERHUBUNGAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "7088560",
+    "gaji_max": "21505700",
+    "jumlah_ms": 7,
+    "kode_pend": "5080242",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA LOGISTIK"
+  },
+  {
+    "formasi_id": "88f10a7d-30e9-4398-a23b-dc3da8883fd6",
+    "ins_nm": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH PROVINSI DKI JAKARTA | DINAS PERHUBUNGAN | BIDANG PELAYARAN DAN PENERBANGAN DINAS PERHUBUNGAN | SEKSI BADAN USAHA DAN JASA ANGKUTAN PELAYARAN DAN PENERBANGAN DINAS PERHUBUNGAN",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "7088560",
+    "gaji_max": "21505700",
+    "jumlah_ms": 8,
+    "kode_pend": "5080242",
+    "nama_pend": "D-IV TEKNOLOGI REKAYASA LOGISTIK"
+  }
+]

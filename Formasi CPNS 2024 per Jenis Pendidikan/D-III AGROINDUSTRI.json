@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "4d2938d2-61cd-4bd5-8e05-fc3df213e111",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Tanah Laut | Jurusan Teknologi Industri Pertanian",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 57,
+    "kode_pend": "4415028",
+    "nama_pend": "D-III AGROINDUSTRI"
+  },
+  {
+    "formasi_id": "bebb40c6-3ac7-41b1-92e7-e00331cd6dc6",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Subang | Jurusan Agroindustri",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 43,
+    "kode_pend": "4415028",
+    "nama_pend": "D-III AGROINDUSTRI"
+  },
+  {
+    "formasi_id": "c9d239a6-577b-401e-abdf-b72391b12c07",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PRANATA LABORATORIUM PENDIDIKAN TERAMPIL",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Politeknik Negeri Fakfak | Jurusan Teknik Perawatan dan Perbaikan Mesin",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2918320",
+    "gaji_max": "6994006",
+    "jumlah_ms": 8,
+    "kode_pend": "4415028",
+    "nama_pend": "D-III AGROINDUSTRI"
+  },
+  {
+    "formasi_id": "a43067c2-2cec-4623-a348-25ba0beb05a3",
+    "ins_nm": "Pemerintah Kab. Luwu Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "TEKNISI PENELITIAN DAN PEREKAYASAAN TERAMPIL",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LUWU TIMUR | BADAN PERENCANAAN PENELITIAN DAN PENGEMBANGAN DAERAH",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2700000",
+    "gaji_max": "3500000",
+    "jumlah_ms": 1,
+    "kode_pend": "4415028",
+    "nama_pend": "D-III AGROINDUSTRI"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "a55269dd-ff92-4374-bd23-07ea83a8fcef",
+    "ins_nm": "Kementerian Energi dan Sumber Daya Mineral",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ANALIS KEBIJAKAN AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN ENERGI DAN SUMBER DAYA MINERAL | Badan Geologi | Pusat Sumber Daya Mineral, Batubara dan Panas Bumi",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "8700000",
+    "gaji_max": "9300000",
+    "jumlah_ms": 2,
+    "kode_pend": "5193525",
+    "nama_pend": "S-1 PERENCANAAN DAN KEBIJAKAN PUBLIK"
+  },
+  {
+    "formasi_id": "162747c9-bf5a-4b2f-910c-2513e7f54de9",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | BALAI PELATIHAN PERTANIAN JAMBI",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 248,
+    "kode_pend": "5193525",
+    "nama_pend": "S-1 PERENCANAAN DAN KEBIJAKAN PUBLIK"
+  },
+  {
+    "formasi_id": "4a9a46bb-eb66-4aff-8358-edb70142f088",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | BALAI BESAR PELATIHAN PERTANIAN BINUANG",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 3,
+    "kode_pend": "5193525",
+    "nama_pend": "S-1 PERENCANAAN DAN KEBIJAKAN PUBLIK"
+  },
+  {
+    "formasi_id": "7b6d3b7b-0556-42e7-9c7c-cec86f4e91d9",
+    "ins_nm": "Kementerian Pertanian",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PERENCANA AHLI PERTAMA",
+    "lokasi_nm": "KEMENTERIAN PERTANIAN | BADAN PENYULUHAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA PERTANIAN | BALAI BESAR PELATIHAN PERTANIAN KETINDAN",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3325752",
+    "gaji_max": "8660902",
+    "jumlah_ms": 0,
+    "kode_pend": "5193525",
+    "nama_pend": "S-1 PERENCANAAN DAN KEBIJAKAN PUBLIK"
+  }
+]

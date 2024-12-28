@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "b0df8aa3-b1a2-4130-ab1c-cdd0f864999c",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA KELOLA INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | SEKOLAH TINGGI INTLIJEN NEGARA | BAGIAN RESIMEN TARUNA & MAHASISWA",
+    "jumlah_formasi": 9,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 8,
+    "kode_pend": "7105020",
+    "nama_pend": "S-2 TEKNIK NUKLIR"
+  },
+  {
+    "formasi_id": "0380c4c6-07c2-45ef-964b-1de5269b553f",
+    "ins_nm": "Pemerintah Kab. Kutai Timur",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENELITI AHLI PERTAMA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN KUTAI TIMUR                                       | BADAN RISET DAN INOVASI DAERAH | BIDANG INOVASI DAN TEKNOLOGI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "9834489",
+    "jumlah_ms": 46,
+    "kode_pend": "7105020",
+    "nama_pend": "S-2 TEKNIK NUKLIR"
+  }
+]

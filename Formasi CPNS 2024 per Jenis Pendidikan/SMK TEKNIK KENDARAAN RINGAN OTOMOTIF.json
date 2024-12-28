@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "10ac7e21-6123-4dfe-9535-db24da6c9256",
+    "ins_nm": "Pemerintah Kab. Lebong",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA LAKSANA BANGUNAN GEDUNG DAN KAWASAN PERMUKIMAN PEMULA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LEBONG | DINAS PEKERJAAN UMUM, PENATAAN RUANG DAN PERHUBUNGAN",
+    "jumlah_formasi": 2,
+    "disable": 1,
+    "gaji_min": "2184000",
+    "gaji_max": "3643400",
+    "jumlah_ms": 164,
+    "kode_pend": "3190058",
+    "nama_pend": "SMK TEKNIK KENDARAAN RINGAN OTOMOTIF"
+  },
+  {
+    "formasi_id": "445e8794-f933-4d45-ba5e-61f3684c877f",
+    "ins_nm": "Pemerintah Kab. Lebong",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENATA LAKSANA JALAN DAN JEMBATAN PEMULA",
+    "lokasi_nm": "PEMERINTAH KABUPATEN LEBONG | DINAS PEKERJAAN UMUM, PENATAAN RUANG DAN PERHUBUNGAN",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2184000",
+    "gaji_max": "3643400",
+    "jumlah_ms": 297,
+    "kode_pend": "3190058",
+    "nama_pend": "SMK TEKNIK KENDARAAN RINGAN OTOMOTIF"
+  }
+]

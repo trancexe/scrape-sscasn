@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "68a2914a-597f-4009-b8dd-f8dbe7ae1836",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "ASISTEN AGEN INTELIJEN TERAMPIL",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN TEKNOLOGI | DIREKTORAT INTELIJEN GEOSPASIAL | SUB DIREKTORAT DETEKSI ANCAMAN DARAT",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 0,
+    "kode_pend": "4412000",
+    "nama_pend": "D-III MIPA"
+  },
+  {
+    "formasi_id": "c166bcdf-57c1-499b-a17d-cdd29e54faf3",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGOLAH DATA INTELIJEN",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | DEPUTI BIDANG INTELIJEN TEKNOLOGI | DIREKTORAT INTELIJEN GEOSPASIAL | SUB DIREKTORAT DETEKSI ANCAMAN DARAT",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 0,
+    "kode_pend": "4412000",
+    "nama_pend": "D-III MIPA"
+  }
+]

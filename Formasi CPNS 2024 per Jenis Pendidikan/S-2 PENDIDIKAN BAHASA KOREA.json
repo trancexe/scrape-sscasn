@@ -1,0 +1,62 @@
+[
+  {
+    "formasi_id": "8a0284b99173225701918da9c7f2039e",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "LULUSAN TERBAIK",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Malikussaleh | Fakultas Keguruan dan Ilmu Pendidikan | Jurusan Pendidikan Ilmu Terapan-Fakultas Keguruan dan Ilmu Pendidikan | Program Studi S1 Pendidikan Bahasa Indonesia-Jurusan Pendidikan Ilmu Terapan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9000418",
+    "nama_pend": "S-2 PENDIDIKAN BAHASA KOREA"
+  },
+  {
+    "formasi_id": "8a0284b99173225701918daa009703ad",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "PENYANDANG DISABILITAS",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Malikussaleh | Fakultas Keguruan dan Ilmu Pendidikan | Jurusan Pendidikan Ilmu Terapan-Fakultas Keguruan dan Ilmu Pendidikan | Program Studi S1 Pendidikan Bahasa Indonesia-Jurusan Pendidikan Ilmu Terapan",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9000418",
+    "nama_pend": "S-2 PENDIDIKAN BAHASA KOREA"
+  },
+  {
+    "formasi_id": "0b4b890f-f365-4d32-9f0b-1f062dd1421c",
+    "ins_nm": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI | PERGURUAN TINGGI NEGERI | Universitas Malikussaleh | Fakultas Keguruan dan Ilmu Pendidikan | Jurusan Pendidikan Ilmu Terapan-Fakultas Keguruan dan Ilmu Pendidikan | Program Studi S1 Pendidikan Bahasa Indonesia-Jurusan Pendidikan Ilmu Terapan",
+    "jumlah_formasi": 4,
+    "disable": 1,
+    "gaji_min": "3351020",
+    "gaji_max": "6878384",
+    "jumlah_ms": 0,
+    "kode_pend": "9000418",
+    "nama_pend": "S-2 PENDIDIKAN BAHASA KOREA"
+  },
+  {
+    "formasi_id": "6be3fa2f-f345-4f95-9c21-0282683b7cce",
+    "ins_nm": "Kementerian Pertahanan",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "WIDYAISWARA AHLI PERTAMA",
+    "lokasi_nm": "Pertahanan Keamanan (Hankam) | KEMHAN | BADAN PENDIDIKAN DAN PELATIHAN | PUSAT PENDIDIKAN DAN PELATIHAN BAHASA",
+    "jumlah_formasi": 1,
+    "disable": 0,
+    "gaji_min": "3000000",
+    "gaji_max": "6000000",
+    "jumlah_ms": 0,
+    "kode_pend": "9000418",
+    "nama_pend": "S-2 PENDIDIKAN BAHASA KOREA"
+  }
+]

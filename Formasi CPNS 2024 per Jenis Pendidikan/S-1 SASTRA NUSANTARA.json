@@ -1,0 +1,32 @@
+[
+  {
+    "formasi_id": "28965489-d4d0-46c6-9824-31ee1969477f",
+    "ins_nm": "Pemerintah Aceh",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PEREVITALISASI BAHASA DAN SASTRA",
+    "lokasi_nm": "ACEH | DINAS KEBUDAYAAN DAN PARIWISATA ACEH | BIDANG BAHASA DAN SENI",
+    "jumlah_formasi": 1,
+    "disable": 1,
+    "gaji_min": "3000000",
+    "gaji_max": "3200000",
+    "jumlah_ms": 30,
+    "kode_pend": "5120117",
+    "nama_pend": "S-1 SASTRA NUSANTARA"
+  },
+  {
+    "formasi_id": "12a0aff6-0633-4d97-a24a-621b3855a350",
+    "ins_nm": "Pemerintah Kab. Lembata",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PEREVITALISASI BAHASA DAN SASTRA",
+    "lokasi_nm": "Pemerintah Daerah Kabupaten Lembata | Dinas Kepemudaan, Olahraga dan Kebudayaan | Bidang Kebudayaan",
+    "jumlah_formasi": 3,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "3500000",
+    "jumlah_ms": 8,
+    "kode_pend": "5120117",
+    "nama_pend": "S-1 SASTRA NUSANTARA"
+  }
+]

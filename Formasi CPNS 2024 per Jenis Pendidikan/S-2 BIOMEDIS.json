@@ -1,0 +1,47 @@
+[
+  {
+    "formasi_id": "646504d6-4ccd-4b0f-906d-a68b9c8fe8ba",
+    "ins_nm": "Badan Intelijen Negara",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "PENGEMBANG SISTEM INTELIJEN AHLI PERTAMA",
+    "lokasi_nm": "BADAN INTELIJEN NEGARA | SEKRETARIAT UTAMA | PUSAT INTELIJEN MEDIK | BIDANG PENGEMBANGAN INTELIJEN MEDIK DAN PELAYANAN MEDIK",
+    "jumlah_formasi": 3,
+    "disable": 0,
+    "gaji_min": "3500000",
+    "gaji_max": "7500000",
+    "jumlah_ms": 14,
+    "kode_pend": "7103600",
+    "nama_pend": "S-2 BIOMEDIS"
+  },
+  {
+    "formasi_id": "8a028487919cdb310191a66a728d0a3b",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UIN SUNAN KALIJAGA YOGYAKARTA",
+    "jumlah_formasi": 5,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 7,
+    "kode_pend": "7103600",
+    "nama_pend": "S-2 BIOMEDIS"
+  },
+  {
+    "formasi_id": "8a038450919cdb3c0191a84e5cec2a2d",
+    "ins_nm": "Kementerian Agama",
+    "jp_nama": "CPNS",
+    "formasi_nm": "UMUM",
+    "jabatan_nm": "DOSEN ASISTEN AHLI",
+    "lokasi_nm": "UHN I GUSTI BAGUS SUGRIWA DENPASAR",
+    "jumlah_formasi": 6,
+    "disable": 1,
+    "gaji_min": "2785700",
+    "gaji_max": "6104700",
+    "jumlah_ms": 28,
+    "kode_pend": "7103600",
+    "nama_pend": "S-2 BIOMEDIS"
+  }
+]
